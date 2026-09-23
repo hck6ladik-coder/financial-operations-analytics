@@ -1,0 +1,1335 @@
+transaction_id,date,amount,currency,category,counterparty,account,description,type
+TXN-10000,2023-01-01,4629.54,EUR,Salary,Acme Corp Payroll,Credit-003,Salary - TechStart GmbH,income
+TXN-10029,2023-01-01,-211.73,EUR,Utilities,Electric Co,Credit-003,Utilities - Water Utility,expense
+TXN-10002,2023-01-01,-1400.0,EUR,Rent,City Properties Ltd,Checking-001,Rent - City Properties Ltd,expense
+TXN-10040,2023-01-01,-467.59,EUR,Investment,Brokerage Account,Checking-001,Investment - Brokerage Account,expense
+TXN-10039,2023-01-01,-84.43,EUR,Insurance,SafeLife Insurance,Credit-003,Insurance - SafeLife Insurance,expense
+TXN-10022,2023-01-03,-52.26,EUR,Transport,Uber,Checking-001,Transport - City Transit,expense
+TXN-10027,2023-01-04,-7.22,EUR,Transport,City Transit,Savings-002,Transport - Uber,expense
+TXN-10006,2023-01-05,-96.59,EUR,Groceries,Whole Foods,Checking-001,Groceries - Lidl,expense
+TXN-10019,2023-01-05,-56.37,EUR,Transport,City Transit,Credit-003,Transport - Train Co,expense
+TXN-10018,2023-01-07,-33.99,EUR,Transport,BP,Credit-003,Transport - BP,expense
+TXN-10001,2023-01-08,1809.21,EUR,Freelance,Client A,Credit-003,Freelance - Client A,income
+TXN-10033,2023-01-08,-19.54,EUR,Subscriptions,AWS,Checking-001,Subscriptions - Netflix,expense
+TXN-10017,2023-01-09,-38.39,EUR,Transport,Train Co,Credit-003,Transport - Shell,expense
+TXN-10032,2023-01-11,-31.33,EUR,Subscriptions,Netflix,Savings-002,Subscriptions - Adobe,expense
+TXN-10013,2023-01-12,-38.72,EUR,Dining,Pizza Place,Credit-003,Dining - Restaurant XYZ,expense
+TXN-10010,2023-01-12,-79.5,EUR,Dining,Restaurant XYZ,Checking-001,Dining - Cafe Central,expense
+TXN-10021,2023-01-13,-33.34,EUR,Transport,City Transit,Credit-003,Transport - BP,expense
+TXN-10012,2023-01-13,-65.26,EUR,Dining,Pizza Place,Checking-001,Dining - Pizza Place,expense
+TXN-10015,2023-01-13,-73.25,EUR,Dining,Cafe Central,Credit-003,Dining - Pizza Place,expense
+TXN-10009,2023-01-13,-132.83,EUR,Groceries,Whole Foods,Credit-003,Groceries - Carrefour,expense
+TXN-10007,2023-01-13,-96.64,EUR,Groceries,Whole Foods,Credit-003,Groceries - Whole Foods,expense
+TXN-10024,2023-01-13,-44.01,EUR,Transport,BP,Credit-003,Transport - Shell,expense
+TXN-10004,2023-01-14,-96.74,EUR,Groceries,Carrefour,Savings-002,Groceries - Lidl,expense
+TXN-10035,2023-01-16,-33.55,EUR,Entertainment,Cinema,Savings-002,Entertainment - Streaming Extra,expense
+TXN-10030,2023-01-17,-26.15,EUR,Subscriptions,Spotify,Savings-002,Subscriptions - Spotify,expense
+TXN-10003,2023-01-17,-65.81,EUR,Groceries,Carrefour,Checking-001,Groceries - Carrefour,expense
+TXN-10038,2023-01-17,-147.64,EUR,Shopping,Zara,Checking-001,Shopping - Amazon,expense
+TXN-10020,2023-01-18,-43.17,EUR,Transport,Train Co,Savings-002,Transport - Train Co,expense
+TXN-10025,2023-01-18,-39.38,EUR,Transport,Uber,Credit-003,Transport - Uber,expense
+TXN-10031,2023-01-18,-23.05,EUR,Subscriptions,AWS,Checking-001,Subscriptions - AWS,expense
+TXN-10014,2023-01-20,-63.16,EUR,Dining,Cafe Central,Checking-001,Dining - Sushi Bar,expense
+TXN-10026,2023-01-22,-44.03,EUR,Transport,Shell,Credit-003,Transport - Shell,expense
+TXN-10037,2023-01-23,-587.49,EUR,Travel,Booking.com,Savings-002,Travel - Booking.com,expense
+TXN-10028,2023-01-24,-35.2,EUR,Transport,Shell,Credit-003,Transport - City Transit,expense
+TXN-10034,2023-01-24,-79.07,EUR,Healthcare,City Clinic,Credit-003,Healthcare - City Clinic,expense
+TXN-10016,2023-01-25,-13.02,EUR,Transport,Uber,Savings-002,Transport - BP,expense
+TXN-10011,2023-01-25,-56.25,EUR,Dining,Restaurant XYZ,Checking-001,Dining - Restaurant XYZ,expense
+TXN-10005,2023-01-25,-71.44,EUR,Groceries,Aldi,Savings-002,Groceries - Whole Foods,expense
+TXN-10008,2023-01-26,-78.95,EUR,Groceries,Aldi,Credit-003,Groceries - Lidl,expense
+TXN-10023,2023-01-26,-29.36,EUR,Transport,Train Co,Checking-001,Transport - BP,expense
+TXN-10036,2023-01-28,-90.27,EUR,Entertainment,Cinema,Credit-003,Entertainment - Streaming Extra,expense
+TXN-10071,2023-02-01,-195.55,EUR,Utilities,Water Utility,Checking-001,Utilities - Electric Co,expense
+TXN-10044,2023-02-01,-1400.0,EUR,Rent,City Properties Ltd,Checking-001,Rent - City Properties Ltd,expense
+TXN-10041,2023-02-01,4422.98,EUR,Salary,TechStart GmbH,Checking-001,Salary - Acme Corp Payroll,income
+TXN-10082,2023-02-01,-121.55,EUR,Insurance,SafeLife Insurance,Savings-002,Insurance - SafeLife Insurance,expense
+TXN-10060,2023-02-03,-35.54,EUR,Transport,Train Co,Credit-003,Transport - Train Co,expense
+TXN-10075,2023-02-03,-19.21,EUR,Subscriptions,Spotify,Credit-003,Subscriptions - Netflix,expense
+TXN-10058,2023-02-03,-29.58,EUR,Transport,City Transit,Savings-002,Transport - Uber,expense
+TXN-10069,2023-02-04,-29.64,EUR,Transport,Train Co,Checking-001,Transport - Shell,expense
+TXN-10050,2023-02-04,-112.66,EUR,Groceries,Carrefour,Checking-001,Groceries - Lidl,expense
+TXN-10077,2023-02-05,-41.57,EUR,Healthcare,Pharmacy Plus,Checking-001,Healthcare - Pharmacy Plus,expense
+TXN-10048,2023-02-07,-96.98,EUR,Groceries,Tesco,Savings-002,Groceries - Tesco,expense
+TXN-10065,2023-02-07,-39.49,EUR,Transport,City Transit,Savings-002,Transport - Uber,expense
+TXN-10078,2023-02-08,-81.06,EUR,Entertainment,Concert Hall,Credit-003,Entertainment - Concert Hall,expense
+TXN-10066,2023-02-08,-33.62,EUR,Transport,City Transit,Savings-002,Transport - Train Co,expense
+TXN-10062,2023-02-08,-74.3,EUR,Transport,City Transit,Credit-003,Transport - Shell,expense
+TXN-10042,2023-02-09,1612.4,EUR,Freelance,Client B,Credit-003,Freelance - Client B,income
+TXN-10049,2023-02-09,-89.64,EUR,Groceries,Lidl,Savings-002,Groceries - Carrefour,expense
+TXN-10068,2023-02-10,-38.3,EUR,Transport,Uber,Checking-001,Transport - Shell,expense
+TXN-10070,2023-02-10,-12.83,EUR,Transport,Shell,Checking-001,Transport - Shell,expense
+TXN-10055,2023-02-10,-24.93,EUR,Dining,Restaurant XYZ,Credit-003,Dining - Restaurant XYZ,expense
+TXN-10061,2023-02-11,-11.53,EUR,Transport,City Transit,Credit-003,Transport - Shell,expense
+TXN-10045,2023-02-12,-92.73,EUR,Groceries,Aldi,Credit-003,Groceries - Lidl,expense
+TXN-10053,2023-02-13,-17.88,EUR,Dining,Sushi Bar,Savings-002,Dining - Sushi Bar,expense
+TXN-10080,2023-02-14,-158.94,EUR,Travel,Booking.com,Savings-002,Travel - Airline,expense
+TXN-10063,2023-02-15,-22.67,EUR,Transport,Uber,Checking-001,Transport - BP,expense
+TXN-10052,2023-02-16,-64.69,EUR,Groceries,Aldi,Checking-001,Groceries - Tesco,expense
+TXN-10057,2023-02-17,-57.9,EUR,Dining,Cafe Central,Checking-001,Dining - Restaurant XYZ,expense
+TXN-10074,2023-02-18,-22.49,EUR,Subscriptions,AWS,Checking-001,Subscriptions - Netflix,expense
+TXN-10059,2023-02-19,-11.93,EUR,Transport,Train Co,Checking-001,Transport - Train Co,expense
+TXN-10079,2023-02-20,-69.83,EUR,Entertainment,Cinema,Checking-001,Entertainment - Cinema,expense
+TXN-10064,2023-02-20,-33.69,EUR,Transport,Uber,Checking-001,Transport - Train Co,expense
+TXN-10073,2023-02-21,-27.13,EUR,Subscriptions,Spotify,Credit-003,Subscriptions - GitHub,expense
+TXN-10046,2023-02-22,-76.72,EUR,Groceries,Lidl,Checking-001,Groceries - Aldi,expense
+TXN-10067,2023-02-23,-64.81,EUR,Transport,Train Co,Checking-001,Transport - Train Co,expense
+TXN-10054,2023-02-23,-46.44,EUR,Dining,Sushi Bar,Checking-001,Dining - Cafe Central,expense
+TXN-10056,2023-02-24,-37.77,EUR,Dining,Restaurant XYZ,Credit-003,Dining - Sushi Bar,expense
+TXN-10043,2023-02-24,1572.51,EUR,Freelance,Toptal,Checking-001,Freelance - Toptal,income
+TXN-10047,2023-02-24,-60.61,EUR,Groceries,Lidl,Checking-001,Groceries - Tesco,expense
+TXN-10051,2023-02-25,-114.91,EUR,Groceries,Tesco,Savings-002,Groceries - Aldi,expense
+TXN-10081,2023-02-26,-137.52,EUR,Shopping,IKEA,Checking-001,Shopping - IKEA,expense
+TXN-10083,2023-02-27,-465.45,EUR,Investment,Brokerage Account,Checking-001,Investment - Brokerage Account,expense
+TXN-10072,2023-02-27,-26.06,EUR,Subscriptions,Netflix,Savings-002,Subscriptions - Spotify,expense
+TXN-10076,2023-02-27,-85.15,EUR,Healthcare,Dental Care,Checking-001,Healthcare - Pharmacy Plus,expense
+TXN-10086,2023-03-01,-1400.0,EUR,Rent,City Properties Ltd,Checking-001,Rent - City Properties Ltd,expense
+TXN-10084,2023-03-01,4590.59,EUR,Salary,TechStart GmbH,Savings-002,Salary - TechStart GmbH,income
+TXN-10124,2023-03-01,-76.34,EUR,Insurance,SafeLife Insurance,Savings-002,Insurance - SafeLife Insurance,expense
+TXN-10111,2023-03-01,-165.79,EUR,Utilities,Water Utility,Credit-003,Utilities - Water Utility,expense
+TXN-10123,2023-03-01,-102.14,EUR,Insurance,SafeLife Insurance,Checking-001,Insurance - SafeLife Insurance,expense
+TXN-10122,2023-03-01,-92.07,EUR,Insurance,SafeLife Insurance,Savings-002,Insurance - SafeLife Insurance,expense
+TXN-10090,2023-03-02,-83.49,EUR,Groceries,Lidl,Credit-003,Groceries - Carrefour,expense
+TXN-10092,2023-03-03,-89.81,EUR,Groceries,Whole Foods,Credit-003,Groceries - Whole Foods,expense
+TXN-10115,2023-03-03,-31.15,EUR,Subscriptions,Adobe,Credit-003,Subscriptions - GitHub,expense
+TXN-10114,2023-03-05,-20.93,EUR,Subscriptions,Spotify,Credit-003,Subscriptions - Spotify,expense
+TXN-10096,2023-03-06,-22.14,EUR,Dining,Pizza Place,Savings-002,Dining - Restaurant XYZ,expense
+TXN-10125,2023-03-07,-452.62,EUR,Investment,Crypto Exchange,Savings-002,Investment - Crypto Exchange,expense
+TXN-10104,2023-03-08,-49.86,EUR,Transport,Uber,Checking-001,Transport - BP,expense
+TXN-10105,2023-03-08,-43.49,EUR,Transport,Train Co,Savings-002,Transport - Uber,expense
+TXN-10120,2023-03-08,-271.71,EUR,Travel,Hotel Group,Checking-001,Travel - Hotel Group,expense
+TXN-10087,2023-03-09,-86.86,EUR,Groceries,Whole Foods,Checking-001,Groceries - Lidl,expense
+TXN-10112,2023-03-09,-28.92,EUR,Subscriptions,Adobe,Checking-001,Subscriptions - Adobe,expense
+TXN-10100,2023-03-10,-16.94,EUR,Dining,Pizza Place,Checking-001,Dining - Cafe Central,expense
+TXN-10097,2023-03-10,-29.96,EUR,Dining,Sushi Bar,Credit-003,Dining - Pizza Place,expense
+TXN-10108,2023-03-11,-58.26,EUR,Transport,BP,Credit-003,Transport - Train Co,expense
+TXN-10113,2023-03-11,-26.61,EUR,Subscriptions,AWS,Checking-001,Subscriptions - Spotify,expense
+TXN-10118,2023-03-12,-103.2,EUR,Entertainment,Concert Hall,Savings-002,Entertainment - Streaming Extra,expense
+TXN-10109,2023-03-14,-33.97,EUR,Transport,Train Co,Savings-002,Transport - City Transit,expense
+TXN-10116,2023-03-14,-106.22,EUR,Healthcare,Pharmacy Plus,Savings-002,Healthcare - Dental Care,expense
+TXN-10098,2023-03-15,-29.18,EUR,Dining,Cafe Central,Credit-003,Dining - Sushi Bar,expense
+TXN-10102,2023-03-16,-26.2,EUR,Transport,Uber,Savings-002,Transport - BP,expense
+TXN-10089,2023-03-17,-85.66,EUR,Groceries,Carrefour,Checking-001,Groceries - Whole Foods,expense
+TXN-10106,2023-03-18,-33.51,EUR,Transport,Uber,Savings-002,Transport - City Transit,expense
+TXN-10095,2023-03-18,-114.22,EUR,Groceries,Aldi,Credit-003,Groceries - Aldi,expense
+TXN-10088,2023-03-20,-132.97,EUR,Groceries,Whole Foods,Savings-002,Groceries - Carrefour,expense
+TXN-10103,2023-03-21,-2.14,EUR,Transport,BP,Savings-002,Transport - BP,expense
+TXN-10121,2023-03-22,-102.18,EUR,Shopping,Zara,Savings-002,Shopping - Zara,expense
+TXN-10091,2023-03-22,-23.42,EUR,Groceries,Tesco,Savings-002,Groceries - Aldi,expense
+TXN-10093,2023-03-22,-77.46,EUR,Groceries,Whole Foods,Credit-003,Groceries - Whole Foods,expense
+TXN-10101,2023-03-22,-73.04,EUR,Dining,Cafe Central,Checking-001,Dining - Restaurant XYZ,expense
+TXN-10094,2023-03-22,-85.87,EUR,Groceries,Aldi,Credit-003,Groceries - Whole Foods,expense
+TXN-10117,2023-03-23,-100.29,EUR,Healthcare,Dental Care,Savings-002,Healthcare - Pharmacy Plus,expense
+TXN-10119,2023-03-24,-24.28,EUR,Entertainment,Streaming Extra,Checking-001,Entertainment - Concert Hall,expense
+TXN-10110,2023-03-24,-50.93,EUR,Transport,BP,Savings-002,Transport - City Transit,expense
+TXN-10107,2023-03-26,-42.55,EUR,Transport,Train Co,Credit-003,Transport - Train Co,expense
+TXN-10099,2023-03-26,-63.19,EUR,Dining,Cafe Central,Credit-003,Dining - Restaurant XYZ,expense
+TXN-10085,2023-03-28,1133.58,EUR,Freelance,Upwork,Savings-002,Freelance - Toptal,income
+TXN-10168,2023-04-01,-102.73,EUR,Insurance,SafeLife Insurance,Credit-003,Insurance - SafeLife Insurance,expense
+TXN-10170,2023-04-01,-99.85,EUR,Insurance,SafeLife Insurance,Checking-001,Insurance - SafeLife Insurance,expense
+TXN-10169,2023-04-01,-97.37,EUR,Insurance,SafeLife Insurance,Checking-001,Insurance - SafeLife Insurance,expense
+TXN-10138,2023-04-01,-50.29,EUR,Dining,Sushi Bar,Checking-001,Dining - Sushi Bar,expense
+TXN-10155,2023-04-01,-168.44,EUR,Utilities,Gas Provider,Savings-002,Utilities - Water Utility,expense
+TXN-10126,2023-04-01,4731.72,EUR,Salary,TechStart GmbH,Savings-002,Salary - Acme Corp Payroll,income
+TXN-10128,2023-04-01,-1400.0,EUR,Rent,City Properties Ltd,Checking-001,Rent - City Properties Ltd,expense
+TXN-10163,2023-04-03,-52.28,EUR,Entertainment,Streaming Extra,Checking-001,Entertainment - Cinema,expense
+TXN-10142,2023-04-03,-51.06,EUR,Transport,BP,Checking-001,Transport - BP,expense
+TXN-10133,2023-04-04,-76.47,EUR,Groceries,Whole Foods,Credit-003,Groceries - Aldi,expense
+TXN-10160,2023-04-04,-44.74,EUR,Healthcare,Dental Care,Savings-002,Healthcare - Pharmacy Plus,expense
+TXN-10165,2023-04-04,-219.21,EUR,Travel,Hotel Group,Credit-003,Travel - Airline,expense
+TXN-10164,2023-04-05,-59.28,EUR,Entertainment,Concert Hall,Checking-001,Entertainment - Cinema,expense
+TXN-10147,2023-04-07,-36.09,EUR,Transport,BP,Savings-002,Transport - Train Co,expense
+TXN-10153,2023-04-09,-53.69,EUR,Transport,City Transit,Checking-001,Transport - City Transit,expense
+TXN-10167,2023-04-10,-51.87,EUR,Shopping,Amazon,Credit-003,Shopping - Amazon,expense
+TXN-10157,2023-04-10,-30.71,EUR,Subscriptions,Spotify,Savings-002,Subscriptions - Netflix,expense
+TXN-10154,2023-04-11,-32.4,EUR,Transport,Train Co,Credit-003,Transport - City Transit,expense
+TXN-10139,2023-04-12,-9.4,EUR,Dining,Sushi Bar,Credit-003,Dining - Cafe Central,expense
+TXN-10145,2023-04-12,-24.29,EUR,Transport,Shell,Savings-002,Transport - Train Co,expense
+TXN-10151,2023-04-12,-22.15,EUR,Transport,Train Co,Savings-002,Transport - BP,expense
+TXN-10134,2023-04-13,-78.08,EUR,Groceries,Tesco,Checking-001,Groceries - Carrefour,expense
+TXN-10166,2023-04-13,-85.75,EUR,Shopping,IKEA,Savings-002,Shopping - IKEA,expense
+TXN-10150,2023-04-13,-41.7,EUR,Transport,Shell,Credit-003,Transport - Train Co,expense
+TXN-10171,2023-04-14,-491.81,EUR,Investment,Crypto Exchange,Savings-002,Investment - Brokerage Account,expense
+TXN-10137,2023-04-14,-15.93,EUR,Dining,Restaurant XYZ,Credit-003,Dining - Pizza Place,expense
+TXN-10140,2023-04-14,-32.49,EUR,Dining,Pizza Place,Credit-003,Dining - Sushi Bar,expense
+TXN-10141,2023-04-15,-62.14,EUR,Dining,Pizza Place,Savings-002,Dining - Cafe Central,expense
+TXN-10149,2023-04-15,-57.72,EUR,Transport,Uber,Savings-002,Transport - City Transit,expense
+TXN-10130,2023-04-16,-107.24,EUR,Groceries,Carrefour,Checking-001,Groceries - Aldi,expense
+TXN-10162,2023-04-16,-50.87,EUR,Entertainment,Cinema,Savings-002,Entertainment - Concert Hall,expense
+TXN-10127,2023-04-16,871.73,EUR,Freelance,Client A,Savings-002,Freelance - Client B,income
+TXN-10144,2023-04-16,-38.35,EUR,Transport,City Transit,Savings-002,Transport - City Transit,expense
+TXN-10161,2023-04-16,-120.2,EUR,Healthcare,City Clinic,Checking-001,Healthcare - Pharmacy Plus,expense
+TXN-10159,2023-04-18,-22.2,EUR,Subscriptions,Spotify,Credit-003,Subscriptions - GitHub,expense
+TXN-10143,2023-04-19,-27.76,EUR,Transport,BP,Savings-002,Transport - Uber,expense
+TXN-10132,2023-04-20,-86.93,EUR,Groceries,Lidl,Checking-001,Groceries - Whole Foods,expense
+TXN-10158,2023-04-23,-23.21,EUR,Subscriptions,Adobe,Checking-001,Subscriptions - Netflix,expense
+TXN-10131,2023-04-23,-105.4,EUR,Groceries,Whole Foods,Checking-001,Groceries - Carrefour,expense
+TXN-10146,2023-04-23,-27.9,EUR,Transport,Train Co,Checking-001,Transport - Train Co,expense
+TXN-10135,2023-04-23,-64.32,EUR,Groceries,Tesco,Checking-001,Groceries - Whole Foods,expense
+TXN-10152,2023-04-24,-31.79,EUR,Transport,Shell,Credit-003,Transport - BP,expense
+TXN-10156,2023-04-25,-24.71,EUR,Subscriptions,Adobe,Checking-001,Subscriptions - Spotify,expense
+TXN-10148,2023-04-25,-47.7,EUR,Transport,BP,Credit-003,Transport - BP,expense
+TXN-10136,2023-04-28,-84.67,EUR,Groceries,Lidl,Credit-003,Groceries - Lidl,expense
+TXN-10203,2023-05-01,-194.53,EUR,Utilities,Water Utility,Checking-001,Utilities - Gas Provider,expense
+TXN-10208,2023-05-01,-119.85,EUR,Entertainment,Concert Hall,Credit-003,Entertainment - Cinema,expense
+TXN-10214,2023-05-01,-97.02,EUR,Insurance,SafeLife Insurance,Checking-001,Insurance - SafeLife Insurance,expense
+TXN-10215,2023-05-01,-94.39,EUR,Insurance,SafeLife Insurance,Savings-002,Insurance - SafeLife Insurance,expense
+TXN-10174,2023-05-01,-1400.0,EUR,Rent,City Properties Ltd,Credit-003,Rent - City Properties Ltd,expense
+TXN-10172,2023-05-01,4417.09,EUR,Salary,TechStart GmbH,Credit-003,Salary - TechStart GmbH,income
+TXN-10212,2023-05-02,-33.52,EUR,Shopping,Zara,Credit-003,Shopping - MediaMarkt,expense
+TXN-10209,2023-05-03,-99.01,EUR,Entertainment,Concert Hall,Savings-002,Entertainment - Streaming Extra,expense
+TXN-10173,2023-05-03,1232.08,EUR,Freelance,Upwork,Credit-003,Freelance - Client B,income
+TXN-10177,2023-05-04,-68.01,EUR,Groceries,Whole Foods,Credit-003,Groceries - Aldi,expense
+TXN-10213,2023-05-08,-206.15,EUR,Shopping,IKEA,Checking-001,Shopping - Amazon,expense
+TXN-10197,2023-05-08,-28.93,EUR,Transport,City Transit,Savings-002,Transport - City Transit,expense
+TXN-10194,2023-05-08,-42.12,EUR,Transport,Uber,Savings-002,Transport - Uber,expense
+TXN-10200,2023-05-09,-3.17,EUR,Transport,Shell,Credit-003,Transport - Shell,expense
+TXN-10183,2023-05-09,-69.15,EUR,Groceries,Carrefour,Savings-002,Groceries - Aldi,expense
+TXN-10178,2023-05-09,-103.26,EUR,Groceries,Aldi,Savings-002,Groceries - Lidl,expense
+TXN-10186,2023-05-10,-58.24,EUR,Dining,Sushi Bar,Credit-003,Dining - Restaurant XYZ,expense
+TXN-10191,2023-05-10,-22.01,EUR,Transport,BP,Checking-001,Transport - Uber,expense
+TXN-10193,2023-05-10,-40.02,EUR,Transport,Train Co,Savings-002,Transport - Uber,expense
+TXN-10207,2023-05-11,-136.63,EUR,Healthcare,Pharmacy Plus,Checking-001,Healthcare - Dental Care,expense
+TXN-10216,2023-05-12,-488.65,EUR,Investment,Brokerage Account,Credit-003,Investment - Crypto Exchange,expense
+TXN-10204,2023-05-13,-26.19,EUR,Subscriptions,GitHub,Checking-001,Subscriptions - Adobe,expense
+TXN-10189,2023-05-14,-47.29,EUR,Dining,Pizza Place,Credit-003,Dining - Sushi Bar,expense
+TXN-10187,2023-05-15,-27.95,EUR,Dining,Pizza Place,Savings-002,Dining - Restaurant XYZ,expense
+TXN-10184,2023-05-16,-85.5,EUR,Dining,Pizza Place,Savings-002,Dining - Restaurant XYZ,expense
+TXN-10206,2023-05-16,-25.1,EUR,Subscriptions,Spotify,Credit-003,Subscriptions - AWS,expense
+TXN-10196,2023-05-17,-8.52,EUR,Transport,BP,Savings-002,Transport - BP,expense
+TXN-10202,2023-05-18,-57.79,EUR,Transport,Shell,Credit-003,Transport - Train Co,expense
+TXN-10181,2023-05-19,-101.29,EUR,Groceries,Whole Foods,Credit-003,Groceries - Lidl,expense
+TXN-10179,2023-05-20,-79.59,EUR,Groceries,Aldi,Credit-003,Groceries - Whole Foods,expense
+TXN-10180,2023-05-20,-83.86,EUR,Groceries,Lidl,Checking-001,Groceries - Carrefour,expense
+TXN-10176,2023-05-20,-102.88,EUR,Groceries,Carrefour,Savings-002,Groceries - Aldi,expense
+TXN-10198,2023-05-20,-53.91,EUR,Transport,City Transit,Checking-001,Transport - Shell,expense
+TXN-10195,2023-05-21,-44.8,EUR,Transport,BP,Credit-003,Transport - Shell,expense
+TXN-10192,2023-05-21,-53.0,EUR,Transport,City Transit,Credit-003,Transport - City Transit,expense
+TXN-10190,2023-05-21,-34.9,EUR,Dining,Restaurant XYZ,Checking-001,Dining - Pizza Place,expense
+TXN-10210,2023-05-23,-13.71,EUR,Entertainment,Cinema,Savings-002,Entertainment - Streaming Extra,expense
+TXN-10205,2023-05-24,-15.64,EUR,Subscriptions,GitHub,Savings-002,Subscriptions - Spotify,expense
+TXN-10199,2023-05-25,-21.23,EUR,Transport,BP,Savings-002,Transport - Train Co,expense
+TXN-10188,2023-05-25,-60.85,EUR,Dining,Restaurant XYZ,Credit-003,Dining - Sushi Bar,expense
+TXN-10182,2023-05-25,-31.4,EUR,Groceries,Aldi,Credit-003,Groceries - Aldi,expense
+TXN-10201,2023-05-27,-19.51,EUR,Transport,BP,Checking-001,Transport - BP,expense
+TXN-10175,2023-05-27,-111.94,EUR,Groceries,Lidl,Checking-001,Groceries - Whole Foods,expense
+TXN-10211,2023-05-28,-151.51,EUR,Travel,Booking.com,Credit-003,Travel - Hotel Group,expense
+TXN-10185,2023-05-28,-41.27,EUR,Dining,Sushi Bar,Credit-003,Dining - Sushi Bar,expense
+TXN-10217,2023-06-01,4632.43,EUR,Salary,Acme Corp Payroll,Checking-001,Salary - Acme Corp Payroll,income
+TXN-10219,2023-06-01,-1400.0,EUR,Rent,City Properties Ltd,Checking-001,Rent - City Properties Ltd,expense
+TXN-10257,2023-06-01,-99.47,EUR,Insurance,SafeLife Insurance,Savings-002,Insurance - SafeLife Insurance,expense
+TXN-10246,2023-06-01,-179.64,EUR,Utilities,Electric Co,Credit-003,Utilities - Water Utility,expense
+TXN-10218,2023-06-03,1474.74,EUR,Freelance,Toptal,Credit-003,Freelance - Client B,income
+TXN-10248,2023-06-04,-27.62,EUR,Subscriptions,GitHub,Checking-001,Subscriptions - Spotify,expense
+TXN-10255,2023-06-05,-1063.76,EUR,Travel,Airline,Credit-003,Travel - Booking.com,expense
+TXN-10232,2023-06-06,-61.58,EUR,Dining,Pizza Place,Credit-003,Dining - Pizza Place,expense
+TXN-10239,2023-06-08,-43.87,EUR,Transport,BP,Credit-003,Transport - Shell,expense
+TXN-10250,2023-06-08,-26.2,EUR,Subscriptions,AWS,Checking-001,Subscriptions - Netflix,expense
+TXN-10252,2023-06-08,-50.28,EUR,Entertainment,Cinema,Credit-003,Entertainment - Cinema,expense
+TXN-10226,2023-06-09,-321.81,EUR,Groceries,Lidl,Credit-003,Groceries - Aldi,expense
+TXN-10254,2023-06-09,-57.09,EUR,Entertainment,Cinema,Credit-003,Entertainment - Cinema,expense
+TXN-10256,2023-06-09,-227.52,EUR,Shopping,IKEA,Credit-003,Shopping - Amazon,expense
+TXN-10253,2023-06-09,-63.9,EUR,Entertainment,Cinema,Checking-001,Entertainment - Streaming Extra,expense
+TXN-10241,2023-06-10,-38.03,EUR,Transport,Uber,Checking-001,Transport - City Transit,expense
+TXN-10225,2023-06-12,-63.76,EUR,Groceries,Whole Foods,Checking-001,Groceries - Aldi,expense
+TXN-10236,2023-06-13,-126.18,EUR,Transport,BP,Savings-002,Transport - Shell,expense
+TXN-10243,2023-06-14,-18.52,EUR,Transport,City Transit,Savings-002,Transport - Uber,expense
+TXN-10222,2023-06-15,-90.2,EUR,Groceries,Carrefour,Savings-002,Groceries - Aldi,expense
+TXN-10221,2023-06-15,-100.57,EUR,Groceries,Carrefour,Checking-001,Groceries - Lidl,expense
+TXN-10238,2023-06-16,-15.84,EUR,Transport,Train Co,Savings-002,Transport - Train Co,expense
+TXN-10258,2023-06-17,-437.59,EUR,Investment,Crypto Exchange,Credit-003,Investment - Brokerage Account,expense
+TXN-10242,2023-06-18,-38.27,EUR,Transport,BP,Savings-002,Transport - Train Co,expense
+TXN-10237,2023-06-19,-33.24,EUR,Transport,Shell,Checking-001,Transport - City Transit,expense
+TXN-10247,2023-06-21,-20.35,EUR,Subscriptions,GitHub,Savings-002,Subscriptions - Spotify,expense
+TXN-10230,2023-06-21,-28.74,EUR,Dining,Sushi Bar,Checking-001,Dining - Pizza Place,expense
+TXN-10249,2023-06-21,-20.25,EUR,Subscriptions,Netflix,Checking-001,Subscriptions - Adobe,expense
+TXN-10240,2023-06-21,-26.79,EUR,Transport,City Transit,Checking-001,Transport - Uber,expense
+TXN-10229,2023-06-22,-77.32,EUR,Groceries,Tesco,Credit-003,Groceries - Lidl,expense
+TXN-10223,2023-06-23,-97.33,EUR,Groceries,Whole Foods,Checking-001,Groceries - Aldi,expense
+TXN-10245,2023-06-23,-22.8,EUR,Transport,BP,Savings-002,Transport - City Transit,expense
+TXN-10231,2023-06-24,-32.41,EUR,Dining,Pizza Place,Savings-002,Dining - Sushi Bar,expense
+TXN-10234,2023-06-26,-30.05,EUR,Dining,Restaurant XYZ,Checking-001,Dining - Cafe Central,expense
+TXN-10228,2023-06-26,-62.51,EUR,Groceries,Tesco,Credit-003,Groceries - Whole Foods,expense
+TXN-10233,2023-06-27,-56.2,EUR,Dining,Sushi Bar,Savings-002,Dining - Pizza Place,expense
+TXN-10227,2023-06-27,-102.32,EUR,Groceries,Whole Foods,Checking-001,Groceries - Carrefour,expense
+TXN-10251,2023-06-27,-47.3,EUR,Healthcare,City Clinic,Credit-003,Healthcare - City Clinic,expense
+TXN-10244,2023-06-27,-22.62,EUR,Transport,BP,Savings-002,Transport - Uber,expense
+TXN-10224,2023-06-28,-99.73,EUR,Groceries,Tesco,Savings-002,Groceries - Carrefour,expense
+TXN-10235,2023-06-28,-32.79,EUR,Dining,Sushi Bar,Credit-003,Dining - Pizza Place,expense
+TXN-10259,2023-07-01,4625.67,EUR,Salary,Acme Corp Payroll,Credit-003,Salary - TechStart GmbH,income
+TXN-10303,2023-07-01,-100.77,EUR,Insurance,SafeLife Insurance,Checking-001,Insurance - SafeLife Insurance,expense
+TXN-10261,2023-07-01,-1400.0,EUR,Rent,City Properties Ltd,Credit-003,Rent - City Properties Ltd,expense
+TXN-10302,2023-07-01,-85.5,EUR,Insurance,SafeLife Insurance,Savings-002,Insurance - SafeLife Insurance,expense
+TXN-10279,2023-07-01,-23.44,EUR,Transport,Shell,Savings-002,Transport - Shell,expense
+TXN-10297,2023-07-01,-36.48,EUR,Entertainment,Cinema,Credit-003,Entertainment - Concert Hall,expense
+TXN-10289,2023-07-01,-178.37,EUR,Utilities,Electric Co,Checking-001,Utilities - Water Utility,expense
+TXN-10280,2023-07-01,-27.61,EUR,Transport,City Transit,Credit-003,Transport - BP,expense
+TXN-10301,2023-07-01,-93.5,EUR,Insurance,SafeLife Insurance,Credit-003,Insurance - SafeLife Insurance,expense
+TXN-10290,2023-07-02,-84.27,EUR,Subscriptions,Spotify,Checking-001,Subscriptions - Adobe,expense
+TXN-10285,2023-07-02,-28.13,EUR,Transport,Shell,Savings-002,Transport - BP,expense
+TXN-10284,2023-07-03,-40.15,EUR,Transport,City Transit,Checking-001,Transport - Train Co,expense
+TXN-10281,2023-07-03,-33.67,EUR,Transport,Uber,Checking-001,Transport - Train Co,expense
+TXN-10271,2023-07-04,-17.8,EUR,Dining,Pizza Place,Checking-001,Dining - Restaurant XYZ,expense
+TXN-10304,2023-07-05,-632.02,EUR,Investment,Brokerage Account,Credit-003,Investment - Brokerage Account,expense
+TXN-10275,2023-07-05,-45.09,EUR,Dining,Cafe Central,Checking-001,Dining - Pizza Place,expense
+TXN-10263,2023-07-05,-51.05,EUR,Groceries,Whole Foods,Credit-003,Groceries - Carrefour,expense
+TXN-10292,2023-07-06,-19.0,EUR,Subscriptions,AWS,Credit-003,Subscriptions - Spotify,expense
+TXN-10282,2023-07-07,-56.68,EUR,Transport,BP,Savings-002,Transport - City Transit,expense
+TXN-10299,2023-07-08,-151.55,EUR,Shopping,IKEA,Credit-003,Shopping - Amazon,expense
+TXN-10265,2023-07-10,-79.9,EUR,Groceries,Carrefour,Savings-002,Groceries - Lidl,expense
+TXN-10274,2023-07-10,-51.05,EUR,Dining,Pizza Place,Checking-001,Dining - Cafe Central,expense
+TXN-10291,2023-07-10,-15.7,EUR,Subscriptions,Netflix,Savings-002,Subscriptions - GitHub,expense
+TXN-10288,2023-07-10,-27.9,EUR,Transport,Train Co,Savings-002,Transport - Train Co,expense
+TXN-10269,2023-07-11,-96.93,EUR,Groceries,Whole Foods,Savings-002,Groceries - Tesco,expense
+TXN-10276,2023-07-12,-45.24,EUR,Transport,Shell,Credit-003,Transport - City Transit,expense
+TXN-10283,2023-07-12,-47.66,EUR,Transport,Shell,Credit-003,Transport - Train Co,expense
+TXN-10300,2023-07-13,-165.55,EUR,Shopping,MediaMarkt,Checking-001,Shopping - MediaMarkt,expense
+TXN-10273,2023-07-14,-13.6,EUR,Dining,Sushi Bar,Credit-003,Dining - Restaurant XYZ,expense
+TXN-10267,2023-07-14,-63.19,EUR,Groceries,Tesco,Savings-002,Groceries - Whole Foods,expense
+TXN-10260,2023-07-15,1230.32,EUR,Freelance,Client A,Checking-001,Freelance - Toptal,income
+TXN-10270,2023-07-16,-58.28,EUR,Dining,Restaurant XYZ,Checking-001,Dining - Sushi Bar,expense
+TXN-10286,2023-07-16,-33.96,EUR,Transport,BP,Savings-002,Transport - City Transit,expense
+TXN-10293,2023-07-17,-15.92,EUR,Subscriptions,Adobe,Checking-001,Subscriptions - GitHub,expense
+TXN-10264,2023-07-18,-95.83,EUR,Groceries,Aldi,Credit-003,Groceries - Carrefour,expense
+TXN-10272,2023-07-19,-85.74,EUR,Dining,Pizza Place,Credit-003,Dining - Restaurant XYZ,expense
+TXN-10278,2023-07-22,-15.93,EUR,Transport,Uber,Credit-003,Transport - Shell,expense
+TXN-10296,2023-07-23,-103.59,EUR,Entertainment,Concert Hall,Checking-001,Entertainment - Concert Hall,expense
+TXN-10287,2023-07-25,-20.25,EUR,Transport,Shell,Savings-002,Transport - Uber,expense
+TXN-10266,2023-07-26,-71.02,EUR,Groceries,Carrefour,Credit-003,Groceries - Tesco,expense
+TXN-10277,2023-07-26,-35.72,EUR,Transport,Train Co,Credit-003,Transport - Train Co,expense
+TXN-10268,2023-07-27,-56.14,EUR,Groceries,Aldi,Credit-003,Groceries - Lidl,expense
+TXN-10298,2023-07-27,-668.58,EUR,Travel,Booking.com,Checking-001,Travel - Hotel Group,expense
+TXN-10294,2023-07-28,-95.55,EUR,Healthcare,Pharmacy Plus,Checking-001,Healthcare - Pharmacy Plus,expense
+TXN-10295,2023-07-28,-30.71,EUR,Entertainment,Concert Hall,Credit-003,Entertainment - Concert Hall,expense
+TXN-10335,2023-08-01,-138.94,EUR,Utilities,Gas Provider,Checking-001,Utilities - Water Utility,expense
+TXN-10305,2023-08-01,4866.29,EUR,Salary,Acme Corp Payroll,Checking-001,Salary - TechStart GmbH,income
+TXN-10306,2023-08-01,4485.28,EUR,Salary,TechStart GmbH,Credit-003,Salary - TechStart GmbH,income
+TXN-10309,2023-08-01,-1400.0,EUR,Rent,City Properties Ltd,Savings-002,Rent - City Properties Ltd,expense
+TXN-10345,2023-08-01,-87.04,EUR,Insurance,SafeLife Insurance,Credit-003,Insurance - SafeLife Insurance,expense
+TXN-10330,2023-08-02,-4.09,EUR,Transport,City Transit,Savings-002,Transport - Train Co,expense
+TXN-10308,2023-08-03,514.75,EUR,Freelance,Upwork,Savings-002,Freelance - Client A,income
+TXN-10346,2023-08-04,-500.62,EUR,Investment,Brokerage Account,Savings-002,Investment - Brokerage Account,expense
+TXN-10319,2023-08-04,-34.71,EUR,Dining,Sushi Bar,Savings-002,Dining - Pizza Place,expense
+TXN-10314,2023-08-05,-96.25,EUR,Groceries,Aldi,Checking-001,Groceries - Whole Foods,expense
+TXN-10322,2023-08-05,-75.68,EUR,Dining,Restaurant XYZ,Savings-002,Dining - Sushi Bar,expense
+TXN-10326,2023-08-05,-11.73,EUR,Transport,Shell,Checking-001,Transport - Train Co,expense
+TXN-10329,2023-08-06,-33.99,EUR,Transport,Train Co,Checking-001,Transport - BP,expense
+TXN-10325,2023-08-07,-46.23,EUR,Transport,BP,Checking-001,Transport - City Transit,expense
+TXN-10341,2023-08-08,-57.78,EUR,Entertainment,Cinema,Credit-003,Entertainment - Streaming Extra,expense
+TXN-10339,2023-08-08,-191.96,EUR,Healthcare,Pharmacy Plus,Checking-001,Healthcare - Pharmacy Plus,expense
+TXN-10332,2023-08-08,-38.73,EUR,Transport,BP,Checking-001,Transport - Shell,expense
+TXN-10331,2023-08-10,-8.67,EUR,Transport,BP,Checking-001,Transport - Train Co,expense
+TXN-10342,2023-08-11,-202.77,EUR,Travel,Airline,Checking-001,Travel - Booking.com,expense
+TXN-10323,2023-08-11,-15.83,EUR,Transport,Train Co,Checking-001,Transport - BP,expense
+TXN-10318,2023-08-14,-81.99,EUR,Groceries,Carrefour,Checking-001,Groceries - Whole Foods,expense
+TXN-10338,2023-08-15,-30.92,EUR,Subscriptions,Spotify,Savings-002,Subscriptions - Netflix,expense
+TXN-10344,2023-08-15,-120.88,EUR,Shopping,Amazon,Checking-001,Shopping - MediaMarkt,expense
+TXN-10343,2023-08-16,-100.16,EUR,Shopping,Zara,Credit-003,Shopping - IKEA,expense
+TXN-10336,2023-08-16,-19.71,EUR,Subscriptions,AWS,Checking-001,Subscriptions - AWS,expense
+TXN-10324,2023-08-17,-30.02,EUR,Transport,Shell,Savings-002,Transport - City Transit,expense
+TXN-10340,2023-08-17,-14.93,EUR,Entertainment,Concert Hall,Checking-001,Entertainment - Concert Hall,expense
+TXN-10312,2023-08-18,-84.87,EUR,Groceries,Lidl,Savings-002,Groceries - Carrefour,expense
+TXN-10321,2023-08-19,-67.49,EUR,Dining,Pizza Place,Savings-002,Dining - Sushi Bar,expense
+TXN-10317,2023-08-20,-88.56,EUR,Groceries,Whole Foods,Savings-002,Groceries - Aldi,expense
+TXN-10313,2023-08-21,-83.83,EUR,Groceries,Carrefour,Savings-002,Groceries - Carrefour,expense
+TXN-10333,2023-08-22,-20.43,EUR,Transport,BP,Savings-002,Transport - Shell,expense
+TXN-10315,2023-08-23,-69.43,EUR,Groceries,Tesco,Checking-001,Groceries - Tesco,expense
+TXN-10316,2023-08-23,-111.69,EUR,Groceries,Aldi,Credit-003,Groceries - Carrefour,expense
+TXN-10320,2023-08-24,-30.77,EUR,Dining,Cafe Central,Savings-002,Dining - Restaurant XYZ,expense
+TXN-10327,2023-08-25,-33.26,EUR,Transport,Train Co,Checking-001,Transport - Shell,expense
+TXN-10334,2023-08-25,-25.32,EUR,Transport,Train Co,Savings-002,Transport - City Transit,expense
+TXN-10328,2023-08-25,-17.31,EUR,Transport,Train Co,Savings-002,Transport - City Transit,expense
+TXN-10307,2023-08-28,1087.11,EUR,Freelance,Upwork,Checking-001,Freelance - Toptal,income
+TXN-10337,2023-08-28,-33.79,EUR,Subscriptions,Netflix,Checking-001,Subscriptions - Adobe,expense
+TXN-10347,2023-09-01,4580.62,EUR,Salary,TechStart GmbH,Credit-003,Salary - TechStart GmbH,income
+TXN-10349,2023-09-01,-1400.0,EUR,Rent,City Properties Ltd,Credit-003,Rent - City Properties Ltd,expense
+TXN-10350,2023-09-01,-75.84,EUR,Groceries,Tesco,Credit-003,Groceries - Aldi,expense
+TXN-10374,2023-09-01,-225.46,EUR,Utilities,Electric Co,Credit-003,Utilities - Electric Co,expense
+TXN-10385,2023-09-01,-95.48,EUR,Insurance,SafeLife Insurance,Savings-002,Insurance - SafeLife Insurance,expense
+TXN-10348,2023-09-03,1150.84,EUR,Freelance,Toptal,Credit-003,Freelance - Client A,income
+TXN-10352,2023-09-03,-97.85,EUR,Groceries,Carrefour,Credit-003,Groceries - Carrefour,expense
+TXN-10373,2023-09-03,-43.64,EUR,Transport,Shell,Savings-002,Transport - BP,expense
+TXN-10356,2023-09-05,-109.64,EUR,Groceries,Carrefour,Savings-002,Groceries - Tesco,expense
+TXN-10351,2023-09-06,-108.5,EUR,Groceries,Lidl,Credit-003,Groceries - Whole Foods,expense
+TXN-10381,2023-09-06,-88.67,EUR,Entertainment,Concert Hall,Checking-001,Entertainment - Streaming Extra,expense
+TXN-10359,2023-09-07,-60.86,EUR,Dining,Cafe Central,Checking-001,Dining - Pizza Place,expense
+TXN-10377,2023-09-08,-26.25,EUR,Subscriptions,Netflix,Credit-003,Subscriptions - Spotify,expense
+TXN-10370,2023-09-09,-25.79,EUR,Transport,Uber,Checking-001,Transport - BP,expense
+TXN-10368,2023-09-10,-36.68,EUR,Transport,BP,Checking-001,Transport - BP,expense
+TXN-10383,2023-09-10,-174.27,EUR,Shopping,Zara,Credit-003,Shopping - Zara,expense
+TXN-10360,2023-09-10,-47.14,EUR,Dining,Sushi Bar,Savings-002,Dining - Restaurant XYZ,expense
+TXN-10367,2023-09-11,-31.79,EUR,Transport,Shell,Credit-003,Transport - Shell,expense
+TXN-10386,2023-09-12,-577.32,EUR,Investment,Crypto Exchange,Savings-002,Investment - Brokerage Account,expense
+TXN-10369,2023-09-12,-38.31,EUR,Transport,Shell,Credit-003,Transport - BP,expense
+TXN-10355,2023-09-12,-61.12,EUR,Groceries,Lidl,Credit-003,Groceries - Whole Foods,expense
+TXN-10371,2023-09-12,-23.64,EUR,Transport,City Transit,Checking-001,Transport - City Transit,expense
+TXN-10354,2023-09-12,-86.57,EUR,Groceries,Lidl,Savings-002,Groceries - Lidl,expense
+TXN-10375,2023-09-12,-18.17,EUR,Subscriptions,Netflix,Credit-003,Subscriptions - Spotify,expense
+TXN-10363,2023-09-13,-52.97,EUR,Transport,BP,Savings-002,Transport - City Transit,expense
+TXN-10364,2023-09-16,-5.53,EUR,Transport,Shell,Credit-003,Transport - Shell,expense
+TXN-10380,2023-09-16,-63.84,EUR,Entertainment,Cinema,Checking-001,Entertainment - Concert Hall,expense
+TXN-10378,2023-09-16,-22.12,EUR,Subscriptions,AWS,Checking-001,Subscriptions - Adobe,expense
+TXN-10376,2023-09-17,-16.78,EUR,Subscriptions,Adobe,Credit-003,Subscriptions - Adobe,expense
+TXN-10353,2023-09-18,-111.48,EUR,Groceries,Aldi,Checking-001,Groceries - Aldi,expense
+TXN-10366,2023-09-20,-45.5,EUR,Transport,City Transit,Credit-003,Transport - Shell,expense
+TXN-10357,2023-09-22,-34.92,EUR,Dining,Sushi Bar,Credit-003,Dining - Cafe Central,expense
+TXN-10379,2023-09-25,-74.44,EUR,Healthcare,Pharmacy Plus,Checking-001,Healthcare - Dental Care,expense
+TXN-10361,2023-09-25,-65.7,EUR,Dining,Pizza Place,Savings-002,Dining - Restaurant XYZ,expense
+TXN-10365,2023-09-26,-34.47,EUR,Transport,BP,Checking-001,Transport - BP,expense
+TXN-10384,2023-09-26,-131.21,EUR,Shopping,Zara,Checking-001,Shopping - Zara,expense
+TXN-10358,2023-09-26,-55.61,EUR,Dining,Sushi Bar,Checking-001,Dining - Pizza Place,expense
+TXN-10362,2023-09-28,-56.07,EUR,Dining,Pizza Place,Checking-001,Dining - Pizza Place,expense
+TXN-10382,2023-09-28,-471.58,EUR,Travel,Booking.com,Credit-003,Travel - Airbnb,expense
+TXN-10372,2023-09-28,-42.96,EUR,Transport,BP,Checking-001,Transport - City Transit,expense
+TXN-10414,2023-10-01,-447.9,EUR,Utilities,Electric Co,Savings-002,Utilities - Gas Provider,expense
+TXN-10390,2023-10-01,-1400.0,EUR,Rent,City Properties Ltd,Savings-002,Rent - City Properties Ltd,expense
+TXN-10423,2023-10-01,-98.07,EUR,Insurance,SafeLife Insurance,Credit-003,Insurance - SafeLife Insurance,expense
+TXN-10387,2023-10-01,4429.84,EUR,Salary,Acme Corp Payroll,Checking-001,Salary - TechStart GmbH,income
+TXN-10388,2023-10-01,4498.41,EUR,Salary,TechStart GmbH,Credit-003,Salary - TechStart GmbH,income
+TXN-10421,2023-10-02,-620.73,EUR,Travel,Booking.com,Savings-002,Travel - Hotel Group,expense
+TXN-10399,2023-10-02,-42.45,EUR,Dining,Pizza Place,Credit-003,Dining - Cafe Central,expense
+TXN-10411,2023-10-03,-36.27,EUR,Transport,Train Co,Savings-002,Transport - City Transit,expense
+TXN-10393,2023-10-05,-101.71,EUR,Groceries,Tesco,Savings-002,Groceries - Tesco,expense
+TXN-10407,2023-10-05,-43.18,EUR,Transport,Shell,Savings-002,Transport - Train Co,expense
+TXN-10412,2023-10-07,-31.44,EUR,Transport,Uber,Checking-001,Transport - Shell,expense
+TXN-10406,2023-10-08,-47.43,EUR,Transport,Shell,Savings-002,Transport - City Transit,expense
+TXN-10395,2023-10-09,-117.74,EUR,Groceries,Carrefour,Savings-002,Groceries - Tesco,expense
+TXN-10402,2023-10-10,-54.16,EUR,Dining,Restaurant XYZ,Checking-001,Dining - Sushi Bar,expense
+TXN-10419,2023-10-11,-42.88,EUR,Entertainment,Concert Hall,Checking-001,Entertainment - Cinema,expense
+TXN-10394,2023-10-12,-50.11,EUR,Groceries,Carrefour,Savings-002,Groceries - Lidl,expense
+TXN-10417,2023-10-13,-21.24,EUR,Subscriptions,AWS,Savings-002,Subscriptions - AWS,expense
+TXN-10415,2023-10-13,-29.89,EUR,Subscriptions,GitHub,Checking-001,Subscriptions - AWS,expense
+TXN-10408,2023-10-14,-72.54,EUR,Transport,City Transit,Savings-002,Transport - Train Co,expense
+TXN-10392,2023-10-14,-94.7,EUR,Groceries,Lidl,Checking-001,Groceries - Carrefour,expense
+TXN-10403,2023-10-15,-44.39,EUR,Transport,Train Co,Checking-001,Transport - Shell,expense
+TXN-10410,2023-10-15,-29.15,EUR,Transport,Shell,Savings-002,Transport - Uber,expense
+TXN-10413,2023-10-16,-30.9,EUR,Transport,BP,Savings-002,Transport - Train Co,expense
+TXN-10424,2023-10-17,-506.61,EUR,Investment,Crypto Exchange,Credit-003,Investment - Crypto Exchange,expense
+TXN-10422,2023-10-17,-147.52,EUR,Shopping,MediaMarkt,Checking-001,Shopping - IKEA,expense
+TXN-10416,2023-10-18,-24.5,EUR,Subscriptions,AWS,Savings-002,Subscriptions - Netflix,expense
+TXN-10397,2023-10-19,-26.17,EUR,Dining,Cafe Central,Checking-001,Dining - Pizza Place,expense
+TXN-10420,2023-10-20,-82.9,EUR,Entertainment,Streaming Extra,Checking-001,Entertainment - Cinema,expense
+TXN-10401,2023-10-21,-49.77,EUR,Dining,Sushi Bar,Checking-001,Dining - Sushi Bar,expense
+TXN-10396,2023-10-21,-132.84,EUR,Groceries,Carrefour,Checking-001,Groceries - Carrefour,expense
+TXN-10418,2023-10-22,-123.13,EUR,Healthcare,City Clinic,Checking-001,Healthcare - Pharmacy Plus,expense
+TXN-10409,2023-10-24,-24.73,EUR,Transport,City Transit,Savings-002,Transport - Train Co,expense
+TXN-10405,2023-10-25,-41.2,EUR,Transport,Train Co,Checking-001,Transport - Shell,expense
+TXN-10389,2023-10-25,1791.98,EUR,Freelance,Client A,Checking-001,Freelance - Upwork,income
+TXN-10400,2023-10-25,-52.23,EUR,Dining,Restaurant XYZ,Savings-002,Dining - Pizza Place,expense
+TXN-10398,2023-10-27,-44.45,EUR,Dining,Restaurant XYZ,Checking-001,Dining - Restaurant XYZ,expense
+TXN-10391,2023-10-27,-45.45,EUR,Groceries,Carrefour,Checking-001,Groceries - Tesco,expense
+TXN-10404,2023-10-28,-40.73,EUR,Transport,Shell,Savings-002,Transport - City Transit,expense
+TXN-10456,2023-11-01,-187.18,EUR,Utilities,Electric Co,Credit-003,Utilities - Water Utility,expense
+TXN-10448,2023-11-01,-16.98,EUR,Transport,City Transit,Savings-002,Transport - BP,expense
+TXN-10466,2023-11-01,-105.91,EUR,Insurance,SafeLife Insurance,Savings-002,Insurance - SafeLife Insurance,expense
+TXN-10425,2023-11-01,4257.8,EUR,Salary,Acme Corp Payroll,Savings-002,Salary - TechStart GmbH,income
+TXN-10427,2023-11-01,-1400.0,EUR,Rent,City Properties Ltd,Credit-003,Rent - City Properties Ltd,expense
+TXN-10442,2023-11-03,-29.08,EUR,Transport,BP,Credit-003,Transport - Shell,expense
+TXN-10429,2023-11-06,-104.92,EUR,Groceries,Carrefour,Savings-002,Groceries - Tesco,expense
+TXN-10453,2023-11-06,-40.27,EUR,Transport,Shell,Checking-001,Transport - Uber,expense
+TXN-10431,2023-11-07,-90.08,EUR,Groceries,Whole Foods,Savings-002,Groceries - Tesco,expense
+TXN-10467,2023-11-08,-581.7,EUR,Investment,Crypto Exchange,Checking-001,Investment - Crypto Exchange,expense
+TXN-10451,2023-11-08,-50.12,EUR,Transport,Uber,Checking-001,Transport - BP,expense
+TXN-10446,2023-11-08,-21.93,EUR,Transport,Uber,Checking-001,Transport - BP,expense
+TXN-10463,2023-11-08,-410.06,EUR,Travel,Booking.com,Savings-002,Travel - Booking.com,expense
+TXN-10437,2023-11-08,-39.91,EUR,Dining,Pizza Place,Checking-001,Dining - Pizza Place,expense
+TXN-10454,2023-11-10,-34.72,EUR,Transport,Uber,Savings-002,Transport - Shell,expense
+TXN-10439,2023-11-11,-53.24,EUR,Dining,Pizza Place,Savings-002,Dining - Restaurant XYZ,expense
+TXN-10436,2023-11-11,-55.81,EUR,Groceries,Whole Foods,Credit-003,Groceries - Aldi,expense
+TXN-10462,2023-11-11,-86.24,EUR,Entertainment,Cinema,Savings-002,Entertainment - Concert Hall,expense
+TXN-10447,2023-11-11,-39.89,EUR,Transport,Uber,Credit-003,Transport - City Transit,expense
+TXN-10461,2023-11-13,-42.93,EUR,Entertainment,Cinema,Checking-001,Entertainment - Concert Hall,expense
+TXN-10432,2023-11-14,-75.72,EUR,Groceries,Aldi,Credit-003,Groceries - Carrefour,expense
+TXN-10455,2023-11-15,-9.85,EUR,Transport,Train Co,Credit-003,Transport - BP,expense
+TXN-10465,2023-11-15,-115.08,EUR,Shopping,IKEA,Credit-003,Shopping - MediaMarkt,expense
+TXN-10449,2023-11-16,-41.12,EUR,Transport,Shell,Savings-002,Transport - Shell,expense
+TXN-10433,2023-11-16,-100.1,EUR,Groceries,Lidl,Credit-003,Groceries - Tesco,expense
+TXN-10434,2023-11-17,-82.84,EUR,Groceries,Whole Foods,Credit-003,Groceries - Aldi,expense
+TXN-10435,2023-11-17,-88.89,EUR,Groceries,Tesco,Savings-002,Groceries - Carrefour,expense
+TXN-10444,2023-11-18,-30.65,EUR,Transport,City Transit,Checking-001,Transport - Train Co,expense
+TXN-10464,2023-11-19,-236.23,EUR,Shopping,Zara,Checking-001,Shopping - Amazon,expense
+TXN-10440,2023-11-19,-54.75,EUR,Dining,Sushi Bar,Savings-002,Dining - Pizza Place,expense
+TXN-10450,2023-11-21,-65.57,EUR,Transport,Uber,Credit-003,Transport - Train Co,expense
+TXN-10458,2023-11-21,-20.54,EUR,Subscriptions,Spotify,Checking-001,Subscriptions - Adobe,expense
+TXN-10426,2023-11-22,959.21,EUR,Freelance,Toptal,Credit-003,Freelance - Upwork,income
+TXN-10445,2023-11-24,-3.87,EUR,Transport,City Transit,Checking-001,Transport - Train Co,expense
+TXN-10443,2023-11-24,-41.31,EUR,Transport,City Transit,Credit-003,Transport - Shell,expense
+TXN-10441,2023-11-25,-53.65,EUR,Dining,Pizza Place,Checking-001,Dining - Pizza Place,expense
+TXN-10438,2023-11-25,-38.25,EUR,Dining,Cafe Central,Credit-003,Dining - Sushi Bar,expense
+TXN-10457,2023-11-26,-20.88,EUR,Subscriptions,Spotify,Credit-003,Subscriptions - GitHub,expense
+TXN-10459,2023-11-26,-24.52,EUR,Subscriptions,Spotify,Checking-001,Subscriptions - AWS,expense
+TXN-10452,2023-11-27,-63.06,EUR,Transport,Uber,Savings-002,Transport - BP,expense
+TXN-10430,2023-11-27,-70.57,EUR,Groceries,Lidl,Credit-003,Groceries - Lidl,expense
+TXN-10460,2023-11-28,-81.74,EUR,Healthcare,Pharmacy Plus,Savings-002,Healthcare - Dental Care,expense
+TXN-10468,2023-12-01,4757.39,EUR,Salary,TechStart GmbH,Savings-002,Salary - TechStart GmbH,income
+TXN-10469,2023-12-01,4411.07,EUR,Salary,Acme Corp Payroll,Checking-001,Salary - Acme Corp Payroll,income
+TXN-10470,2023-12-01,4414.52,EUR,Salary,TechStart GmbH,Checking-001,Salary - Acme Corp Payroll,income
+TXN-10497,2023-12-01,-164.28,EUR,Utilities,Gas Provider,Savings-002,Utilities - Electric Co,expense
+TXN-10472,2023-12-01,-1400.0,EUR,Rent,City Properties Ltd,Checking-001,Rent - City Properties Ltd,expense
+TXN-10508,2023-12-01,-97.31,EUR,Insurance,SafeLife Insurance,Savings-002,Insurance - SafeLife Insurance,expense
+TXN-10486,2023-12-02,-40.66,EUR,Dining,Sushi Bar,Credit-003,Dining - Restaurant XYZ,expense
+TXN-10475,2023-12-02,-97.82,EUR,Groceries,Whole Foods,Credit-003,Groceries - Lidl,expense
+TXN-10471,2023-12-02,978.94,EUR,Freelance,Client B,Credit-003,Freelance - Client B,income
+TXN-10487,2023-12-03,-28.37,EUR,Transport,Uber,Savings-002,Transport - Train Co,expense
+TXN-10500,2023-12-05,-20.74,EUR,Subscriptions,Adobe,Checking-001,Subscriptions - Adobe,expense
+TXN-10492,2023-12-05,-32.24,EUR,Transport,Train Co,Checking-001,Transport - BP,expense
+TXN-10490,2023-12-05,-55.12,EUR,Transport,Shell,Checking-001,Transport - Train Co,expense
+TXN-10479,2023-12-10,-143.12,EUR,Groceries,Tesco,Credit-003,Groceries - Aldi,expense
+TXN-10498,2023-12-10,-19.65,EUR,Subscriptions,Spotify,Savings-002,Subscriptions - Netflix,expense
+TXN-10493,2023-12-10,-33.5,EUR,Transport,Train Co,Credit-003,Transport - City Transit,expense
+TXN-10491,2023-12-11,-6.7,EUR,Transport,Shell,Checking-001,Transport - Shell,expense
+TXN-10480,2023-12-12,-80.49,EUR,Groceries,Aldi,Savings-002,Groceries - Aldi,expense
+TXN-10495,2023-12-12,-23.28,EUR,Transport,BP,Credit-003,Transport - Shell,expense
+TXN-10485,2023-12-12,-33.19,EUR,Dining,Cafe Central,Credit-003,Dining - Restaurant XYZ,expense
+TXN-10509,2023-12-12,-430.38,EUR,Investment,Crypto Exchange,Savings-002,Investment - Brokerage Account,expense
+TXN-10507,2023-12-13,-136.36,EUR,Shopping,MediaMarkt,Savings-002,Shopping - IKEA,expense
+TXN-10476,2023-12-13,-80.74,EUR,Groceries,Lidl,Credit-003,Groceries - Tesco,expense
+TXN-10489,2023-12-13,-52.1,EUR,Transport,Train Co,Checking-001,Transport - Uber,expense
+TXN-10481,2023-12-13,-18.91,EUR,Groceries,Carrefour,Checking-001,Groceries - Whole Foods,expense
+TXN-10474,2023-12-15,-111.46,EUR,Groceries,Aldi,Savings-002,Groceries - Carrefour,expense
+TXN-10484,2023-12-18,-9.36,EUR,Dining,Cafe Central,Checking-001,Dining - Sushi Bar,expense
+TXN-10482,2023-12-18,-49.06,EUR,Dining,Cafe Central,Credit-003,Dining - Cafe Central,expense
+TXN-10499,2023-12-18,-27.91,EUR,Subscriptions,GitHub,Credit-003,Subscriptions - AWS,expense
+TXN-10478,2023-12-18,-107.27,EUR,Groceries,Lidl,Savings-002,Groceries - Lidl,expense
+TXN-10502,2023-12-18,-26.49,EUR,Healthcare,City Clinic,Checking-001,Healthcare - Pharmacy Plus,expense
+TXN-10477,2023-12-19,-64.11,EUR,Groceries,Aldi,Savings-002,Groceries - Lidl,expense
+TXN-10503,2023-12-20,-84.55,EUR,Entertainment,Cinema,Checking-001,Entertainment - Streaming Extra,expense
+TXN-10494,2023-12-21,-36.35,EUR,Transport,Train Co,Savings-002,Transport - Uber,expense
+TXN-10501,2023-12-21,-36.6,EUR,Subscriptions,GitHub,Savings-002,Subscriptions - Netflix,expense
+TXN-10488,2023-12-22,-31.25,EUR,Transport,Uber,Checking-001,Transport - Uber,expense
+TXN-10496,2023-12-23,-3.08,EUR,Transport,City Transit,Savings-002,Transport - BP,expense
+TXN-10506,2023-12-24,-134.74,EUR,Shopping,IKEA,Checking-001,Shopping - Zara,expense
+TXN-10504,2023-12-24,-105.08,EUR,Entertainment,Cinema,Savings-002,Entertainment - Cinema,expense
+TXN-10483,2023-12-27,-112.16,EUR,Dining,Pizza Place,Savings-002,Dining - Sushi Bar,expense
+TXN-10505,2023-12-28,-389.11,EUR,Travel,Booking.com,Checking-001,Travel - Airline,expense
+TXN-10522,2024-01-01,-67.96,EUR,Dining,Pizza Place,Checking-001,Dining - Sushi Bar,expense
+TXN-10536,2024-01-01,-151.93,EUR,Utilities,Gas Provider,Checking-001,Utilities - Gas Provider,expense
+TXN-10540,2024-01-01,-27.62,EUR,Subscriptions,GitHub,Savings-002,Subscriptions - Spotify,expense
+TXN-10547,2024-01-01,-88.84,EUR,Insurance,SafeLife Insurance,Checking-001,Insurance - SafeLife Insurance,expense
+TXN-10512,2024-01-01,-1400.0,EUR,Rent,City Properties Ltd,Savings-002,Rent - City Properties Ltd,expense
+TXN-10510,2024-01-01,4296.56,EUR,Salary,TechStart GmbH,Savings-002,Salary - Acme Corp Payroll,income
+TXN-10532,2024-01-02,-22.5,EUR,Transport,Shell,Credit-003,Transport - Train Co,expense
+TXN-10548,2024-01-03,-666.98,EUR,Investment,Brokerage Account,Credit-003,Investment - Crypto Exchange,expense
+TXN-10535,2024-01-06,-36.04,EUR,Transport,Train Co,Savings-002,Transport - Train Co,expense
+TXN-10513,2024-01-07,-81.04,EUR,Groceries,Aldi,Credit-003,Groceries - Tesco,expense
+TXN-10531,2024-01-08,-27.08,EUR,Transport,Train Co,Savings-002,Transport - Shell,expense
+TXN-10524,2024-01-08,-66.18,EUR,Transport,Train Co,Savings-002,Transport - Shell,expense
+TXN-10525,2024-01-09,-53.61,EUR,Transport,Uber,Savings-002,Transport - BP,expense
+TXN-10545,2024-01-11,-283.36,EUR,Travel,Airbnb,Checking-001,Travel - Booking.com,expense
+TXN-10541,2024-01-12,-65.53,EUR,Healthcare,Pharmacy Plus,Savings-002,Healthcare - City Clinic,expense
+TXN-10511,2024-01-12,1406.67,EUR,Freelance,Client A,Credit-003,Freelance - Client B,income
+TXN-10528,2024-01-13,-30.65,EUR,Transport,BP,Checking-001,Transport - Uber,expense
+TXN-10538,2024-01-14,-21.39,EUR,Subscriptions,Netflix,Savings-002,Subscriptions - AWS,expense
+TXN-10526,2024-01-15,-52.66,EUR,Transport,City Transit,Savings-002,Transport - Uber,expense
+TXN-10517,2024-01-16,-68.14,EUR,Groceries,Carrefour,Credit-003,Groceries - Lidl,expense
+TXN-10514,2024-01-16,-101.94,EUR,Groceries,Whole Foods,Savings-002,Groceries - Aldi,expense
+TXN-10520,2024-01-17,-6.4,EUR,Dining,Restaurant XYZ,Credit-003,Dining - Sushi Bar,expense
+TXN-10537,2024-01-17,-18.64,EUR,Subscriptions,Adobe,Checking-001,Subscriptions - Netflix,expense
+TXN-10518,2024-01-17,-87.87,EUR,Groceries,Lidl,Credit-003,Groceries - Lidl,expense
+TXN-10534,2024-01-19,-40.43,EUR,Transport,BP,Checking-001,Transport - Shell,expense
+TXN-10530,2024-01-19,-37.25,EUR,Transport,Uber,Credit-003,Transport - Uber,expense
+TXN-10527,2024-01-21,-31.94,EUR,Transport,Uber,Checking-001,Transport - BP,expense
+TXN-10521,2024-01-22,-67.14,EUR,Dining,Restaurant XYZ,Credit-003,Dining - Sushi Bar,expense
+TXN-10533,2024-01-22,-54.9,EUR,Transport,Shell,Checking-001,Transport - City Transit,expense
+TXN-10542,2024-01-22,-67.21,EUR,Entertainment,Streaming Extra,Savings-002,Entertainment - Cinema,expense
+TXN-10543,2024-01-23,-71.24,EUR,Entertainment,Concert Hall,Checking-001,Entertainment - Concert Hall,expense
+TXN-10529,2024-01-23,-38.82,EUR,Transport,BP,Savings-002,Transport - Shell,expense
+TXN-10544,2024-01-23,-38.67,EUR,Entertainment,Cinema,Credit-003,Entertainment - Concert Hall,expense
+TXN-10515,2024-01-24,-81.27,EUR,Groceries,Aldi,Savings-002,Groceries - Tesco,expense
+TXN-10516,2024-01-24,-104.56,EUR,Groceries,Tesco,Checking-001,Groceries - Carrefour,expense
+TXN-10546,2024-01-25,-184.86,EUR,Shopping,Zara,Checking-001,Shopping - Zara,expense
+TXN-10519,2024-01-25,-225.12,EUR,Groceries,Tesco,Checking-001,Groceries - Tesco,expense
+TXN-10539,2024-01-25,-30.65,EUR,Subscriptions,AWS,Savings-002,Subscriptions - Adobe,expense
+TXN-10523,2024-01-26,-98.19,EUR,Dining,Cafe Central,Checking-001,Dining - Restaurant XYZ,expense
+TXN-10549,2024-02-01,4852.94,EUR,Salary,Acme Corp Payroll,Savings-002,Salary - TechStart GmbH,income
+TXN-10550,2024-02-01,4359.13,EUR,Salary,Acme Corp Payroll,Credit-003,Salary - Acme Corp Payroll,income
+TXN-10589,2024-02-01,-118.7,EUR,Insurance,SafeLife Insurance,Credit-003,Insurance - SafeLife Insurance,expense
+TXN-10552,2024-02-01,-1400.0,EUR,Rent,City Properties Ltd,Savings-002,Rent - City Properties Ltd,expense
+TXN-10580,2024-02-01,-27.35,EUR,Subscriptions,Netflix,Credit-003,Subscriptions - Spotify,expense
+TXN-10577,2024-02-01,-209.35,EUR,Utilities,Water Utility,Savings-002,Utilities - Electric Co,expense
+TXN-10571,2024-02-02,-37.76,EUR,Transport,BP,Savings-002,Transport - BP,expense
+TXN-10564,2024-02-03,-40.45,EUR,Transport,BP,Credit-003,Transport - BP,expense
+TXN-10588,2024-02-04,-96.98,EUR,Shopping,IKEA,Credit-003,Shopping - MediaMarkt,expense
+TXN-10570,2024-02-04,-32.44,EUR,Transport,Shell,Checking-001,Transport - Train Co,expense
+TXN-10572,2024-02-04,-104.78,EUR,Transport,Train Co,Credit-003,Transport - Train Co,expense
+TXN-10565,2024-02-05,-35.85,EUR,Transport,City Transit,Savings-002,Transport - City Transit,expense
+TXN-10575,2024-02-05,-46.67,EUR,Transport,Uber,Savings-002,Transport - Uber,expense
+TXN-10583,2024-02-06,-30.52,EUR,Entertainment,Concert Hall,Savings-002,Entertainment - Cinema,expense
+TXN-10586,2024-02-09,-373.72,EUR,Travel,Airbnb,Credit-003,Travel - Airbnb,expense
+TXN-10576,2024-02-10,-32.06,EUR,Transport,Uber,Checking-001,Transport - City Transit,expense
+TXN-10556,2024-02-10,-262.4,EUR,Groceries,Carrefour,Savings-002,Groceries - Whole Foods,expense
+TXN-10582,2024-02-11,-77.2,EUR,Healthcare,Pharmacy Plus,Checking-001,Healthcare - Pharmacy Plus,expense
+TXN-10579,2024-02-11,-21.41,EUR,Subscriptions,Netflix,Credit-003,Subscriptions - Netflix,expense
+TXN-10558,2024-02-11,-98.62,EUR,Groceries,Tesco,Savings-002,Groceries - Whole Foods,expense
+TXN-10578,2024-02-12,-14.97,EUR,Subscriptions,GitHub,Credit-003,Subscriptions - GitHub,expense
+TXN-10554,2024-02-12,-137.05,EUR,Groceries,Tesco,Credit-003,Groceries - Aldi,expense
+TXN-10574,2024-02-12,-43.1,EUR,Transport,Train Co,Credit-003,Transport - Train Co,expense
+TXN-10590,2024-02-12,-534.8,EUR,Investment,Crypto Exchange,Credit-003,Investment - Brokerage Account,expense
+TXN-10559,2024-02-13,-37.02,EUR,Dining,Pizza Place,Credit-003,Dining - Sushi Bar,expense
+TXN-10585,2024-02-14,-29.57,EUR,Entertainment,Streaming Extra,Checking-001,Entertainment - Cinema,expense
+TXN-10553,2024-02-14,-41.13,EUR,Groceries,Whole Foods,Savings-002,Groceries - Lidl,expense
+TXN-10557,2024-02-15,-87.42,EUR,Groceries,Carrefour,Checking-001,Groceries - Whole Foods,expense
+TXN-10573,2024-02-18,-29.79,EUR,Transport,Train Co,Checking-001,Transport - BP,expense
+TXN-10587,2024-02-18,-71.6,EUR,Shopping,MediaMarkt,Checking-001,Shopping - IKEA,expense
+TXN-10560,2024-02-19,-45.75,EUR,Dining,Pizza Place,Savings-002,Dining - Pizza Place,expense
+TXN-10562,2024-02-19,-42.72,EUR,Dining,Cafe Central,Credit-003,Dining - Restaurant XYZ,expense
+TXN-10551,2024-02-19,636.62,EUR,Freelance,Toptal,Checking-001,Freelance - Client B,income
+TXN-10567,2024-02-20,-60.65,EUR,Transport,BP,Credit-003,Transport - Train Co,expense
+TXN-10555,2024-02-20,-42.59,EUR,Groceries,Aldi,Checking-001,Groceries - Tesco,expense
+TXN-10569,2024-02-23,-23.85,EUR,Transport,Train Co,Credit-003,Transport - Uber,expense
+TXN-10566,2024-02-23,-30.38,EUR,Transport,BP,Checking-001,Transport - BP,expense
+TXN-10563,2024-02-24,-41.99,EUR,Dining,Cafe Central,Savings-002,Dining - Pizza Place,expense
+TXN-10581,2024-02-24,-22.37,EUR,Subscriptions,Spotify,Credit-003,Subscriptions - Spotify,expense
+TXN-10584,2024-02-24,-10.04,EUR,Entertainment,Cinema,Savings-002,Entertainment - Streaming Extra,expense
+TXN-10561,2024-02-27,-22.93,EUR,Dining,Pizza Place,Checking-001,Dining - Cafe Central,expense
+TXN-10568,2024-02-28,-55.22,EUR,Transport,Train Co,Checking-001,Transport - Shell,expense
+TXN-10632,2024-03-01,-1606.18,EUR,Investment,Brokerage Account,Savings-002,Investment - Brokerage Account,expense
+TXN-10591,2024-03-01,4539.71,EUR,Salary,TechStart GmbH,Credit-003,Salary - Acme Corp Payroll,income
+TXN-10631,2024-03-01,-107.77,EUR,Insurance,SafeLife Insurance,Credit-003,Insurance - SafeLife Insurance,expense
+TXN-10593,2024-03-01,-1400.0,EUR,Rent,City Properties Ltd,Credit-003,Rent - City Properties Ltd,expense
+TXN-10618,2024-03-01,-182.23,EUR,Utilities,Gas Provider,Savings-002,Utilities - Water Utility,expense
+TXN-10598,2024-03-01,-106.46,EUR,Groceries,Tesco,Savings-002,Groceries - Carrefour,expense
+TXN-10601,2024-03-03,-81.95,EUR,Groceries,Tesco,Savings-002,Groceries - Lidl,expense
+TXN-10595,2024-03-06,-19.19,EUR,Groceries,Carrefour,Credit-003,Groceries - Tesco,expense
+TXN-10627,2024-03-06,-358.69,EUR,Travel,Booking.com,Checking-001,Travel - Booking.com,expense
+TXN-10626,2024-03-07,-105.8,EUR,Entertainment,Cinema,Credit-003,Entertainment - Concert Hall,expense
+TXN-10615,2024-03-08,-58.55,EUR,Transport,Shell,Checking-001,Transport - BP,expense
+TXN-10622,2024-03-09,-23.1,EUR,Subscriptions,Adobe,Savings-002,Subscriptions - AWS,expense
+TXN-10614,2024-03-09,-25.67,EUR,Transport,City Transit,Credit-003,Transport - City Transit,expense
+TXN-10628,2024-03-09,-285.56,EUR,Travel,Airline,Checking-001,Travel - Hotel Group,expense
+TXN-10606,2024-03-10,-45.7,EUR,Dining,Restaurant XYZ,Savings-002,Dining - Pizza Place,expense
+TXN-10597,2024-03-11,-80.38,EUR,Groceries,Carrefour,Checking-001,Groceries - Whole Foods,expense
+TXN-10619,2024-03-11,-21.9,EUR,Subscriptions,Netflix,Credit-003,Subscriptions - GitHub,expense
+TXN-10621,2024-03-13,-31.68,EUR,Subscriptions,GitHub,Checking-001,Subscriptions - GitHub,expense
+TXN-10617,2024-03-13,-38.71,EUR,Transport,Uber,Savings-002,Transport - Train Co,expense
+TXN-10594,2024-03-14,-108.73,EUR,Groceries,Carrefour,Savings-002,Groceries - Aldi,expense
+TXN-10600,2024-03-14,-99.39,EUR,Groceries,Aldi,Savings-002,Groceries - Tesco,expense
+TXN-10616,2024-03-16,-45.91,EUR,Transport,Shell,Credit-003,Transport - BP,expense
+TXN-10599,2024-03-17,-67.49,EUR,Groceries,Aldi,Credit-003,Groceries - Aldi,expense
+TXN-10611,2024-03-18,-43.44,EUR,Transport,Train Co,Checking-001,Transport - Shell,expense
+TXN-10596,2024-03-18,-72.67,EUR,Groceries,Whole Foods,Checking-001,Groceries - Tesco,expense
+TXN-10602,2024-03-18,-6.2,EUR,Dining,Sushi Bar,Credit-003,Dining - Sushi Bar,expense
+TXN-10603,2024-03-18,-46.92,EUR,Dining,Restaurant XYZ,Savings-002,Dining - Pizza Place,expense
+TXN-10605,2024-03-18,-59.06,EUR,Dining,Sushi Bar,Checking-001,Dining - Cafe Central,expense
+TXN-10604,2024-03-18,-22.01,EUR,Dining,Restaurant XYZ,Credit-003,Dining - Sushi Bar,expense
+TXN-10623,2024-03-19,-59.47,EUR,Healthcare,Pharmacy Plus,Savings-002,Healthcare - Dental Care,expense
+TXN-10609,2024-03-21,-7.81,EUR,Transport,Train Co,Checking-001,Transport - City Transit,expense
+TXN-10620,2024-03-21,-24.11,EUR,Subscriptions,Adobe,Checking-001,Subscriptions - AWS,expense
+TXN-10613,2024-03-22,-20.41,EUR,Transport,City Transit,Savings-002,Transport - Uber,expense
+TXN-10592,2024-03-22,830.71,EUR,Freelance,Client A,Checking-001,Freelance - Upwork,income
+TXN-10630,2024-03-23,-103.71,EUR,Shopping,Zara,Savings-002,Shopping - Amazon,expense
+TXN-10612,2024-03-23,-25.51,EUR,Transport,Train Co,Savings-002,Transport - Train Co,expense
+TXN-10629,2024-03-24,-107.54,EUR,Shopping,Zara,Savings-002,Shopping - Amazon,expense
+TXN-10624,2024-03-25,-112.69,EUR,Healthcare,City Clinic,Credit-003,Healthcare - Pharmacy Plus,expense
+TXN-10608,2024-03-26,-44.4,EUR,Transport,Shell,Credit-003,Transport - Train Co,expense
+TXN-10607,2024-03-27,-8.44,EUR,Transport,Uber,Checking-001,Transport - City Transit,expense
+TXN-10610,2024-03-27,-24.38,EUR,Transport,Uber,Credit-003,Transport - Shell,expense
+TXN-10625,2024-03-28,-41.01,EUR,Entertainment,Concert Hall,Checking-001,Entertainment - Concert Hall,expense
+TXN-10663,2024-04-01,-211.53,EUR,Utilities,Water Utility,Credit-003,Utilities - Gas Provider,expense
+TXN-10649,2024-04-01,-44.06,EUR,Dining,Restaurant XYZ,Savings-002,Dining - Cafe Central,expense
+TXN-10636,2024-04-01,-1400.0,EUR,Rent,City Properties Ltd,Checking-001,Rent - City Properties Ltd,expense
+TXN-10673,2024-04-01,-90.08,EUR,Insurance,SafeLife Insurance,Savings-002,Insurance - SafeLife Insurance,expense
+TXN-10633,2024-04-01,4636.3,EUR,Salary,Acme Corp Payroll,Savings-002,Salary - Acme Corp Payroll,income
+TXN-10634,2024-04-01,4218.97,EUR,Salary,Acme Corp Payroll,Checking-001,Salary - TechStart GmbH,income
+TXN-10650,2024-04-02,-20.54,EUR,Dining,Sushi Bar,Credit-003,Dining - Pizza Place,expense
+TXN-10657,2024-04-03,-61.38,EUR,Transport,Uber,Savings-002,Transport - Train Co,expense
+TXN-10652,2024-04-03,-42.65,EUR,Transport,Train Co,Credit-003,Transport - City Transit,expense
+TXN-10639,2024-04-04,-81.63,EUR,Groceries,Lidl,Credit-003,Groceries - Aldi,expense
+TXN-10661,2024-04-05,-47.07,EUR,Transport,Shell,Credit-003,Transport - Uber,expense
+TXN-10637,2024-04-06,-53.05,EUR,Groceries,Tesco,Credit-003,Groceries - Tesco,expense
+TXN-10668,2024-04-08,-98.29,EUR,Healthcare,Pharmacy Plus,Savings-002,Healthcare - City Clinic,expense
+TXN-10667,2024-04-08,-29.99,EUR,Subscriptions,Netflix,Checking-001,Subscriptions - Netflix,expense
+TXN-10646,2024-04-08,-71.99,EUR,Dining,Restaurant XYZ,Credit-003,Dining - Restaurant XYZ,expense
+TXN-10641,2024-04-09,-133.24,EUR,Groceries,Tesco,Credit-003,Groceries - Carrefour,expense
+TXN-10653,2024-04-09,-72.27,EUR,Transport,Uber,Credit-003,Transport - City Transit,expense
+TXN-10671,2024-04-11,-449.58,EUR,Travel,Airbnb,Credit-003,Travel - Booking.com,expense
+TXN-10660,2024-04-12,-39.51,EUR,Transport,Shell,Checking-001,Transport - Shell,expense
+TXN-10635,2024-04-12,1400.41,EUR,Freelance,Client B,Savings-002,Freelance - Client B,income
+TXN-10648,2024-04-12,-30.73,EUR,Dining,Cafe Central,Savings-002,Dining - Restaurant XYZ,expense
+TXN-10647,2024-04-12,-33.29,EUR,Dining,Cafe Central,Savings-002,Dining - Sushi Bar,expense
+TXN-10640,2024-04-12,-74.69,EUR,Groceries,Whole Foods,Checking-001,Groceries - Tesco,expense
+TXN-10638,2024-04-14,-91.53,EUR,Groceries,Aldi,Checking-001,Groceries - Lidl,expense
+TXN-10670,2024-04-14,-9.29,EUR,Entertainment,Cinema,Savings-002,Entertainment - Streaming Extra,expense
+TXN-10664,2024-04-16,-25.17,EUR,Subscriptions,Adobe,Checking-001,Subscriptions - GitHub,expense
+TXN-10651,2024-04-17,-45.25,EUR,Transport,BP,Credit-003,Transport - BP,expense
+TXN-10658,2024-04-20,-48.09,EUR,Transport,City Transit,Checking-001,Transport - Uber,expense
+TXN-10644,2024-04-20,-63.31,EUR,Groceries,Aldi,Savings-002,Groceries - Lidl,expense
+TXN-10642,2024-04-20,-101.26,EUR,Groceries,Whole Foods,Credit-003,Groceries - Lidl,expense
+TXN-10655,2024-04-21,-30.29,EUR,Transport,Uber,Savings-002,Transport - BP,expense
+TXN-10672,2024-04-22,-110.01,EUR,Shopping,Zara,Checking-001,Shopping - Amazon,expense
+TXN-10659,2024-04-23,-23.1,EUR,Transport,Uber,Checking-001,Transport - BP,expense
+TXN-10656,2024-04-24,-60.23,EUR,Transport,City Transit,Checking-001,Transport - City Transit,expense
+TXN-10674,2024-04-25,-551.75,EUR,Investment,Crypto Exchange,Checking-001,Investment - Crypto Exchange,expense
+TXN-10666,2024-04-25,-17.25,EUR,Subscriptions,AWS,Credit-003,Subscriptions - Netflix,expense
+TXN-10662,2024-04-25,-50.09,EUR,Transport,Shell,Savings-002,Transport - Shell,expense
+TXN-10645,2024-04-26,-39.34,EUR,Dining,Sushi Bar,Savings-002,Dining - Restaurant XYZ,expense
+TXN-10654,2024-04-26,-21.2,EUR,Transport,Shell,Savings-002,Transport - Train Co,expense
+TXN-10669,2024-04-28,-84.77,EUR,Entertainment,Streaming Extra,Credit-003,Entertainment - Streaming Extra,expense
+TXN-10665,2024-04-28,-23.83,EUR,Subscriptions,Adobe,Checking-001,Subscriptions - Adobe,expense
+TXN-10643,2024-04-28,-58.91,EUR,Groceries,Whole Foods,Checking-001,Groceries - Carrefour,expense
+TXN-10675,2024-05-01,12708.5,EUR,Salary,TechStart GmbH,Credit-003,Salary - Acme Corp Payroll,income
+TXN-10701,2024-05-01,-195.93,EUR,Utilities,Water Utility,Credit-003,Utilities - Water Utility,expense
+TXN-10677,2024-05-01,-1400.0,EUR,Rent,City Properties Ltd,Checking-001,Rent - City Properties Ltd,expense
+TXN-10695,2024-05-01,-8.08,EUR,Transport,City Transit,Checking-001,Transport - City Transit,expense
+TXN-10713,2024-05-01,-103.34,EUR,Insurance,SafeLife Insurance,Credit-003,Insurance - SafeLife Insurance,expense
+TXN-10692,2024-05-02,-55.69,EUR,Transport,Shell,Checking-001,Transport - Uber,expense
+TXN-10705,2024-05-02,-107.96,EUR,Healthcare,Pharmacy Plus,Checking-001,Healthcare - Pharmacy Plus,expense
+TXN-10684,2024-05-03,-100.32,EUR,Groceries,Lidl,Savings-002,Groceries - Tesco,expense
+TXN-10687,2024-05-05,-38.31,EUR,Dining,Sushi Bar,Savings-002,Dining - Pizza Place,expense
+TXN-10681,2024-05-05,-122.89,EUR,Groceries,Lidl,Checking-001,Groceries - Tesco,expense
+TXN-10703,2024-05-05,-15.77,EUR,Subscriptions,AWS,Credit-003,Subscriptions - Spotify,expense
+TXN-10702,2024-05-07,-21.59,EUR,Subscriptions,Adobe,Savings-002,Subscriptions - GitHub,expense
+TXN-10706,2024-05-07,-69.72,EUR,Healthcare,Dental Care,Checking-001,Healthcare - Dental Care,expense
+TXN-10698,2024-05-07,-35.25,EUR,Transport,BP,Checking-001,Transport - Uber,expense
+TXN-10712,2024-05-08,-142.22,EUR,Shopping,MediaMarkt,Credit-003,Shopping - Amazon,expense
+TXN-10685,2024-05-08,-94.69,EUR,Groceries,Whole Foods,Savings-002,Groceries - Whole Foods,expense
+TXN-10694,2024-05-08,-35.5,EUR,Transport,Uber,Checking-001,Transport - Uber,expense
+TXN-10686,2024-05-09,-39.28,EUR,Dining,Cafe Central,Checking-001,Dining - Restaurant XYZ,expense
+TXN-10697,2024-05-09,-31.64,EUR,Transport,Uber,Checking-001,Transport - Uber,expense
+TXN-10689,2024-05-10,-4.8,EUR,Dining,Restaurant XYZ,Checking-001,Dining - Cafe Central,expense
+TXN-10710,2024-05-11,-447.38,EUR,Travel,Airbnb,Savings-002,Travel - Airbnb,expense
+TXN-10714,2024-05-12,-480.89,EUR,Investment,Brokerage Account,Checking-001,Investment - Brokerage Account,expense
+TXN-10693,2024-05-13,-45.96,EUR,Transport,Train Co,Credit-003,Transport - Train Co,expense
+TXN-10688,2024-05-14,-31.83,EUR,Dining,Pizza Place,Checking-001,Dining - Sushi Bar,expense
+TXN-10700,2024-05-15,-2.9,EUR,Transport,Train Co,Savings-002,Transport - BP,expense
+TXN-10676,2024-05-15,1768.2,EUR,Freelance,Toptal,Checking-001,Freelance - Client B,income
+TXN-10711,2024-05-16,-91.17,EUR,Shopping,Zara,Checking-001,Shopping - Amazon,expense
+TXN-10708,2024-05-16,-44.93,EUR,Entertainment,Concert Hall,Savings-002,Entertainment - Streaming Extra,expense
+TXN-10680,2024-05-17,-79.93,EUR,Groceries,Aldi,Savings-002,Groceries - Lidl,expense
+TXN-10709,2024-05-17,-34.28,EUR,Entertainment,Concert Hall,Checking-001,Entertainment - Cinema,expense
+TXN-10707,2024-05-18,-38.55,EUR,Entertainment,Concert Hall,Credit-003,Entertainment - Concert Hall,expense
+TXN-10683,2024-05-19,-40.1,EUR,Groceries,Tesco,Credit-003,Groceries - Aldi,expense
+TXN-10715,2024-05-19,-495.36,EUR,Investment,Crypto Exchange,Credit-003,Investment - Brokerage Account,expense
+TXN-10704,2024-05-21,-22.08,EUR,Subscriptions,GitHub,Credit-003,Subscriptions - GitHub,expense
+TXN-10678,2024-05-21,-98.81,EUR,Groceries,Lidl,Savings-002,Groceries - Lidl,expense
+TXN-10691,2024-05-23,-46.97,EUR,Transport,Shell,Savings-002,Transport - Train Co,expense
+TXN-10679,2024-05-25,-69.18,EUR,Groceries,Whole Foods,Checking-001,Groceries - Tesco,expense
+TXN-10690,2024-05-26,-48.54,EUR,Dining,Restaurant XYZ,Checking-001,Dining - Pizza Place,expense
+TXN-10696,2024-05-27,-42.76,EUR,Transport,Uber,Credit-003,Transport - Train Co,expense
+TXN-10699,2024-05-28,-17.17,EUR,Transport,Shell,Checking-001,Transport - Uber,expense
+TXN-10682,2024-05-28,-46.31,EUR,Groceries,Whole Foods,Savings-002,Groceries - Lidl,expense
+TXN-10746,2024-06-01,-225.77,EUR,Utilities,Electric Co,Checking-001,Utilities - Water Utility,expense
+TXN-10759,2024-06-01,-87.91,EUR,Insurance,SafeLife Insurance,Credit-003,Insurance - SafeLife Insurance,expense
+TXN-10720,2024-06-01,-6070.11,EUR,Rent,City Properties Ltd,Checking-001,Rent - City Properties Ltd,expense
+TXN-10758,2024-06-01,-93.03,EUR,Insurance,SafeLife Insurance,Savings-002,Insurance - SafeLife Insurance,expense
+TXN-10760,2024-06-01,-95.9,EUR,Insurance,SafeLife Insurance,Checking-001,Insurance - SafeLife Insurance,expense
+TXN-10716,2024-06-01,4629.1,EUR,Salary,TechStart GmbH,Credit-003,Salary - Acme Corp Payroll,income
+TXN-10718,2024-06-01,-1400.0,EUR,Rent,City Properties Ltd,Checking-001,Rent - City Properties Ltd,expense
+TXN-10738,2024-06-03,-50.32,EUR,Transport,Uber,Savings-002,Transport - Uber,expense
+TXN-10750,2024-06-03,-26.21,EUR,Subscriptions,Netflix,Savings-002,Subscriptions - GitHub,expense
+TXN-10749,2024-06-04,-23.78,EUR,Subscriptions,Spotify,Credit-003,Subscriptions - Adobe,expense
+TXN-10722,2024-06-05,-58.16,EUR,Groceries,Tesco,Checking-001,Groceries - Carrefour,expense
+TXN-10730,2024-06-06,-13.69,EUR,Dining,Cafe Central,Credit-003,Dining - Restaurant XYZ,expense
+TXN-10725,2024-06-06,-102.5,EUR,Groceries,Aldi,Credit-003,Groceries - Aldi,expense
+TXN-10740,2024-06-06,-31.34,EUR,Transport,City Transit,Credit-003,Transport - Uber,expense
+TXN-10761,2024-06-07,-355.99,EUR,Investment,Brokerage Account,Checking-001,Investment - Crypto Exchange,expense
+TXN-10754,2024-06-08,-31.48,EUR,Entertainment,Streaming Extra,Checking-001,Entertainment - Cinema,expense
+TXN-10728,2024-06-10,-98.97,EUR,Groceries,Whole Foods,Checking-001,Groceries - Tesco,expense
+TXN-10732,2024-06-11,-56.1,EUR,Dining,Restaurant XYZ,Credit-003,Dining - Pizza Place,expense
+TXN-10744,2024-06-11,-25.25,EUR,Transport,City Transit,Savings-002,Transport - Train Co,expense
+TXN-10739,2024-06-11,-24.37,EUR,Transport,Uber,Checking-001,Transport - Shell,expense
+TXN-10736,2024-06-12,-28.4,EUR,Transport,Uber,Savings-002,Transport - Train Co,expense
+TXN-10752,2024-06-13,-57.77,EUR,Entertainment,Concert Hall,Savings-002,Entertainment - Cinema,expense
+TXN-10748,2024-06-14,-25.23,EUR,Subscriptions,AWS,Savings-002,Subscriptions - Spotify,expense
+TXN-10756,2024-06-14,-99.44,EUR,Shopping,Zara,Credit-003,Shopping - Amazon,expense
+TXN-10735,2024-06-14,-67.98,EUR,Transport,BP,Savings-002,Transport - BP,expense
+TXN-10733,2024-06-15,-21.54,EUR,Dining,Restaurant XYZ,Savings-002,Dining - Pizza Place,expense
+TXN-10753,2024-06-15,-66.88,EUR,Entertainment,Concert Hall,Savings-002,Entertainment - Concert Hall,expense
+TXN-10731,2024-06-16,-46.32,EUR,Dining,Restaurant XYZ,Checking-001,Dining - Pizza Place,expense
+TXN-10751,2024-06-16,-72.4,EUR,Healthcare,Dental Care,Savings-002,Healthcare - City Clinic,expense
+TXN-10741,2024-06-18,-43.46,EUR,Transport,Uber,Savings-002,Transport - Train Co,expense
+TXN-10717,2024-06-19,2065.3,EUR,Freelance,Toptal,Credit-003,Freelance - Upwork,income
+TXN-10724,2024-06-19,-81.68,EUR,Groceries,Whole Foods,Savings-002,Groceries - Tesco,expense
+TXN-10742,2024-06-20,-54.2,EUR,Transport,Uber,Savings-002,Transport - City Transit,expense
+TXN-10743,2024-06-20,-21.91,EUR,Transport,City Transit,Checking-001,Transport - Uber,expense
+TXN-10737,2024-06-21,-42.53,EUR,Transport,City Transit,Checking-001,Transport - BP,expense
+TXN-10726,2024-06-21,-55.12,EUR,Groceries,Carrefour,Credit-003,Groceries - Carrefour,expense
+TXN-10729,2024-06-23,-37.46,EUR,Dining,Sushi Bar,Credit-003,Dining - Restaurant XYZ,expense
+TXN-10745,2024-06-24,-36.49,EUR,Transport,Train Co,Savings-002,Transport - Shell,expense
+TXN-10755,2024-06-25,-401.45,EUR,Travel,Airbnb,Checking-001,Travel - Booking.com,expense
+TXN-10721,2024-06-26,-80.15,EUR,Groceries,Whole Foods,Checking-001,Groceries - Lidl,expense
+TXN-10727,2024-06-26,-123.08,EUR,Groceries,Carrefour,Checking-001,Groceries - Aldi,expense
+TXN-10734,2024-06-26,-73.96,EUR,Dining,Restaurant XYZ,Checking-001,Dining - Sushi Bar,expense
+TXN-10747,2024-06-27,-28.46,EUR,Subscriptions,Netflix,Savings-002,Subscriptions - Netflix,expense
+TXN-10757,2024-06-27,-92.59,EUR,Shopping,IKEA,Credit-003,Shopping - IKEA,expense
+TXN-10723,2024-06-28,-110.66,EUR,Groceries,Lidl,Savings-002,Groceries - Aldi,expense
+TXN-10804,2024-07-01,-77.64,EUR,Insurance,SafeLife Insurance,Credit-003,Insurance - SafeLife Insurance,expense
+TXN-10792,2024-07-01,-126.07,EUR,Utilities,Water Utility,Credit-003,Utilities - Gas Provider,expense
+TXN-10805,2024-07-01,-93.02,EUR,Insurance,SafeLife Insurance,Credit-003,Insurance - SafeLife Insurance,expense
+TXN-10764,2024-07-01,-1400.0,EUR,Rent,City Properties Ltd,Credit-003,Rent - City Properties Ltd,expense
+TXN-10762,2024-07-01,4364.72,EUR,Salary,TechStart GmbH,Checking-001,Salary - Acme Corp Payroll,income
+TXN-10782,2024-07-02,-1.03,EUR,Transport,Shell,Credit-003,Transport - City Transit,expense
+TXN-10772,2024-07-02,-23.19,EUR,Groceries,Whole Foods,Credit-003,Groceries - Tesco,expense
+TXN-10773,2024-07-02,-97.4,EUR,Groceries,Whole Foods,Savings-002,Groceries - Lidl,expense
+TXN-10768,2024-07-04,-91.92,EUR,Groceries,Lidl,Savings-002,Groceries - Carrefour,expense
+TXN-10767,2024-07-05,-60.11,EUR,Groceries,Carrefour,Credit-003,Groceries - Lidl,expense
+TXN-10781,2024-07-06,-41.05,EUR,Transport,City Transit,Checking-001,Transport - City Transit,expense
+TXN-10794,2024-07-07,-27.86,EUR,Subscriptions,AWS,Credit-003,Subscriptions - GitHub,expense
+TXN-10802,2024-07-09,-113.13,EUR,Shopping,IKEA,Savings-002,Shopping - Amazon,expense
+TXN-10783,2024-07-09,-35.34,EUR,Transport,BP,Credit-003,Transport - BP,expense
+TXN-10799,2024-07-10,-49.26,EUR,Entertainment,Streaming Extra,Checking-001,Entertainment - Cinema,expense
+TXN-10787,2024-07-10,-34.44,EUR,Transport,Uber,Checking-001,Transport - Train Co,expense
+TXN-10806,2024-07-10,-603.16,EUR,Investment,Brokerage Account,Credit-003,Investment - Crypto Exchange,expense
+TXN-10801,2024-07-11,-247.78,EUR,Travel,Airbnb,Credit-003,Travel - Hotel Group,expense
+TXN-10769,2024-07-12,-85.63,EUR,Groceries,Whole Foods,Savings-002,Groceries - Aldi,expense
+TXN-10771,2024-07-13,-102.2,EUR,Groceries,Carrefour,Credit-003,Groceries - Aldi,expense
+TXN-10780,2024-07-13,-38.95,EUR,Transport,Train Co,Credit-003,Transport - Uber,expense
+TXN-10793,2024-07-14,-21.8,EUR,Subscriptions,Adobe,Savings-002,Subscriptions - Adobe,expense
+TXN-10785,2024-07-16,-8.28,EUR,Transport,City Transit,Savings-002,Transport - Train Co,expense
+TXN-10765,2024-07-17,-70.88,EUR,Groceries,Lidl,Credit-003,Groceries - Carrefour,expense
+TXN-10779,2024-07-17,-43.57,EUR,Transport,Uber,Savings-002,Transport - Train Co,expense
+TXN-10786,2024-07-18,-48.14,EUR,Transport,City Transit,Savings-002,Transport - Uber,expense
+TXN-10796,2024-07-18,-18.0,EUR,Subscriptions,AWS,Savings-002,Subscriptions - Adobe,expense
+TXN-10766,2024-07-19,-100.87,EUR,Groceries,Aldi,Checking-001,Groceries - Aldi,expense
+TXN-10770,2024-07-19,-89.33,EUR,Groceries,Lidl,Checking-001,Groceries - Whole Foods,expense
+TXN-10803,2024-07-19,-62.99,EUR,Shopping,Zara,Savings-002,Shopping - Zara,expense
+TXN-10795,2024-07-19,-22.14,EUR,Subscriptions,AWS,Credit-003,Subscriptions - Adobe,expense
+TXN-10777,2024-07-20,-35.42,EUR,Dining,Cafe Central,Savings-002,Dining - Cafe Central,expense
+TXN-10791,2024-07-21,-45.98,EUR,Transport,Uber,Checking-001,Transport - Shell,expense
+TXN-10784,2024-07-21,-27.13,EUR,Transport,Uber,Checking-001,Transport - Shell,expense
+TXN-10797,2024-07-22,-43.77,EUR,Healthcare,City Clinic,Savings-002,Healthcare - Pharmacy Plus,expense
+TXN-10789,2024-07-22,-36.29,EUR,Transport,BP,Credit-003,Transport - Uber,expense
+TXN-10776,2024-07-25,-37.56,EUR,Dining,Pizza Place,Credit-003,Dining - Sushi Bar,expense
+TXN-10788,2024-07-25,-39.04,EUR,Transport,City Transit,Credit-003,Transport - City Transit,expense
+TXN-10800,2024-07-26,-48.2,EUR,Entertainment,Streaming Extra,Savings-002,Entertainment - Streaming Extra,expense
+TXN-10774,2024-07-26,-24.53,EUR,Dining,Pizza Place,Savings-002,Dining - Restaurant XYZ,expense
+TXN-10763,2024-07-27,1920.38,EUR,Freelance,Upwork,Credit-003,Freelance - Client A,income
+TXN-10778,2024-07-27,-45.48,EUR,Dining,Sushi Bar,Credit-003,Dining - Pizza Place,expense
+TXN-10798,2024-07-28,-5.64,EUR,Entertainment,Streaming Extra,Credit-003,Entertainment - Streaming Extra,expense
+TXN-10775,2024-07-28,-66.87,EUR,Dining,Pizza Place,Credit-003,Dining - Sushi Bar,expense
+TXN-10790,2024-07-28,-37.69,EUR,Transport,Uber,Savings-002,Transport - City Transit,expense
+TXN-10837,2024-08-01,-232.19,EUR,Utilities,Electric Co,Credit-003,Utilities - Gas Provider,expense
+TXN-10836,2024-08-01,-145.54,EUR,Utilities,Gas Provider,Credit-003,Utilities - Electric Co,expense
+TXN-10848,2024-08-01,-222.12,EUR,Insurance,SafeLife Insurance,Savings-002,Insurance - SafeLife Insurance,expense
+TXN-10817,2024-08-01,-107.54,EUR,Groceries,Tesco,Checking-001,Groceries - Carrefour,expense
+TXN-10810,2024-08-01,-1400.0,EUR,Rent,City Properties Ltd,Savings-002,Rent - City Properties Ltd,expense
+TXN-10808,2024-08-01,4845.51,EUR,Salary,Acme Corp Payroll,Savings-002,Salary - Acme Corp Payroll,income
+TXN-10807,2024-08-01,4394.14,EUR,Salary,Acme Corp Payroll,Credit-003,Salary - TechStart GmbH,income
+TXN-10820,2024-08-02,-47.11,EUR,Dining,Pizza Place,Checking-001,Dining - Pizza Place,expense
+TXN-10831,2024-08-02,-45.28,EUR,Transport,Uber,Credit-003,Transport - Uber,expense
+TXN-10824,2024-08-06,-28.99,EUR,Dining,Restaurant XYZ,Savings-002,Dining - Pizza Place,expense
+TXN-10827,2024-08-06,-53.81,EUR,Transport,BP,Checking-001,Transport - City Transit,expense
+TXN-10828,2024-08-08,-14.35,EUR,Transport,City Transit,Checking-001,Transport - Uber,expense
+TXN-10845,2024-08-09,-98.49,EUR,Entertainment,Concert Hall,Savings-002,Entertainment - Concert Hall,expense
+TXN-10835,2024-08-10,-35.76,EUR,Transport,Uber,Credit-003,Transport - Train Co,expense
+TXN-10838,2024-08-10,-26.81,EUR,Subscriptions,Netflix,Savings-002,Subscriptions - Spotify,expense
+TXN-10823,2024-08-10,-56.46,EUR,Dining,Sushi Bar,Credit-003,Dining - Pizza Place,expense
+TXN-10842,2024-08-11,-92.35,EUR,Healthcare,City Clinic,Credit-003,Healthcare - City Clinic,expense
+TXN-10826,2024-08-11,-27.01,EUR,Transport,BP,Savings-002,Transport - City Transit,expense
+TXN-10840,2024-08-12,-31.47,EUR,Subscriptions,Adobe,Checking-001,Subscriptions - Netflix,expense
+TXN-10830,2024-08-13,-28.98,EUR,Transport,Shell,Credit-003,Transport - Train Co,expense
+TXN-10833,2024-08-14,-39.37,EUR,Transport,Uber,Credit-003,Transport - Shell,expense
+TXN-10814,2024-08-14,-61.68,EUR,Groceries,Aldi,Checking-001,Groceries - Whole Foods,expense
+TXN-10819,2024-08-14,-34.96,EUR,Groceries,Aldi,Savings-002,Groceries - Aldi,expense
+TXN-10846,2024-08-15,-388.89,EUR,Travel,Airline,Checking-001,Travel - Booking.com,expense
+TXN-10849,2024-08-15,-414.98,EUR,Investment,Crypto Exchange,Credit-003,Investment - Brokerage Account,expense
+TXN-10834,2024-08-16,-59.76,EUR,Transport,City Transit,Credit-003,Transport - Uber,expense
+TXN-10825,2024-08-17,-32.31,EUR,Transport,Shell,Savings-002,Transport - City Transit,expense
+TXN-10841,2024-08-18,-19.2,EUR,Subscriptions,Spotify,Credit-003,Subscriptions - GitHub,expense
+TXN-10829,2024-08-19,-23.34,EUR,Transport,Uber,Savings-002,Transport - Uber,expense
+TXN-10839,2024-08-20,-30.6,EUR,Subscriptions,Adobe,Credit-003,Subscriptions - Spotify,expense
+TXN-10822,2024-08-21,-77.66,EUR,Dining,Cafe Central,Credit-003,Dining - Pizza Place,expense
+TXN-10816,2024-08-21,-131.61,EUR,Groceries,Whole Foods,Credit-003,Groceries - Lidl,expense
+TXN-10832,2024-08-21,-30.14,EUR,Transport,Uber,Credit-003,Transport - Uber,expense
+TXN-10847,2024-08-22,-45.98,EUR,Shopping,Amazon,Checking-001,Shopping - Amazon,expense
+TXN-10809,2024-08-24,1374.53,EUR,Freelance,Toptal,Savings-002,Freelance - Upwork,income
+TXN-10821,2024-08-25,-9.38,EUR,Dining,Cafe Central,Checking-001,Dining - Restaurant XYZ,expense
+TXN-10818,2024-08-25,-124.05,EUR,Groceries,Lidl,Checking-001,Groceries - Carrefour,expense
+TXN-10844,2024-08-25,-57.7,EUR,Entertainment,Streaming Extra,Credit-003,Entertainment - Cinema,expense
+TXN-10843,2024-08-27,-45.69,EUR,Entertainment,Concert Hall,Checking-001,Entertainment - Cinema,expense
+TXN-10815,2024-08-28,-63.17,EUR,Groceries,Lidl,Savings-002,Groceries - Whole Foods,expense
+TXN-10813,2024-08-28,-87.77,EUR,Groceries,Tesco,Checking-001,Groceries - Whole Foods,expense
+TXN-10874,2024-09-01,-18.9,EUR,Transport,Shell,Credit-003,Transport - Train Co,expense
+TXN-10880,2024-09-01,-193.47,EUR,Utilities,Gas Provider,Checking-001,Utilities - Water Utility,expense
+TXN-10879,2024-09-01,-170.77,EUR,Utilities,Water Utility,Checking-001,Utilities - Gas Provider,expense
+TXN-10862,2024-09-01,-42.21,EUR,Dining,Cafe Central,Credit-003,Dining - Sushi Bar,expense
+TXN-10891,2024-09-01,-90.78,EUR,Insurance,SafeLife Insurance,Credit-003,Insurance - SafeLife Insurance,expense
+TXN-10878,2024-09-01,-151.11,EUR,Utilities,Electric Co,Credit-003,Utilities - Water Utility,expense
+TXN-10850,2024-09-01,4435.67,EUR,Salary,TechStart GmbH,Checking-001,Salary - Acme Corp Payroll,income
+TXN-10852,2024-09-01,-1400.0,EUR,Rent,City Properties Ltd,Savings-002,Rent - City Properties Ltd,expense
+TXN-10892,2024-09-01,-111.85,EUR,Insurance,SafeLife Insurance,Credit-003,Insurance - SafeLife Insurance,expense
+TXN-10857,2024-09-04,-110.87,EUR,Groceries,Aldi,Checking-001,Groceries - Lidl,expense
+TXN-10867,2024-09-04,-9.07,EUR,Transport,Uber,Checking-001,Transport - BP,expense
+TXN-10876,2024-09-05,-26.79,EUR,Transport,BP,Checking-001,Transport - Shell,expense
+TXN-10855,2024-09-06,-102.19,EUR,Groceries,Whole Foods,Credit-003,Groceries - Lidl,expense
+TXN-10884,2024-09-06,-144.48,EUR,Healthcare,City Clinic,Checking-001,Healthcare - Pharmacy Plus,expense
+TXN-10861,2024-09-08,-44.81,EUR,Dining,Sushi Bar,Checking-001,Dining - Restaurant XYZ,expense
+TXN-10858,2024-09-09,-89.75,EUR,Groceries,Lidl,Credit-003,Groceries - Carrefour,expense
+TXN-10864,2024-09-11,-47.67,EUR,Dining,Pizza Place,Checking-001,Dining - Cafe Central,expense
+TXN-10887,2024-09-11,-51.1,EUR,Entertainment,Concert Hall,Checking-001,Entertainment - Cinema,expense
+TXN-10875,2024-09-12,-37.46,EUR,Transport,Uber,Checking-001,Transport - BP,expense
+TXN-10851,2024-09-13,2030.7,EUR,Freelance,Toptal,Savings-002,Freelance - Toptal,income
+TXN-10888,2024-09-14,-359.62,EUR,Travel,Booking.com,Credit-003,Travel - Booking.com,expense
+TXN-10868,2024-09-14,-48.07,EUR,Transport,Train Co,Checking-001,Transport - Uber,expense
+TXN-10866,2024-09-15,-87.02,EUR,Dining,Sushi Bar,Checking-001,Dining - Sushi Bar,expense
+TXN-10883,2024-09-16,-22.75,EUR,Subscriptions,Spotify,Credit-003,Subscriptions - AWS,expense
+TXN-10860,2024-09-17,-99.72,EUR,Groceries,Carrefour,Checking-001,Groceries - Aldi,expense
+TXN-10882,2024-09-17,-24.01,EUR,Subscriptions,AWS,Savings-002,Subscriptions - AWS,expense
+TXN-10870,2024-09-17,-49.08,EUR,Transport,BP,Savings-002,Transport - Shell,expense
+TXN-10889,2024-09-18,-100.27,EUR,Shopping,Zara,Checking-001,Shopping - MediaMarkt,expense
+TXN-10872,2024-09-18,-30.85,EUR,Transport,Train Co,Savings-002,Transport - Shell,expense
+TXN-10865,2024-09-18,-23.28,EUR,Dining,Sushi Bar,Checking-001,Dining - Restaurant XYZ,expense
+TXN-10881,2024-09-19,-24.66,EUR,Subscriptions,Spotify,Savings-002,Subscriptions - Netflix,expense
+TXN-10854,2024-09-19,-83.79,EUR,Groceries,Carrefour,Credit-003,Groceries - Aldi,expense
+TXN-10877,2024-09-20,-48.76,EUR,Transport,Uber,Savings-002,Transport - City Transit,expense
+TXN-10885,2024-09-20,-11.07,EUR,Entertainment,Streaming Extra,Savings-002,Entertainment - Concert Hall,expense
+TXN-10886,2024-09-20,-83.15,EUR,Entertainment,Cinema,Savings-002,Entertainment - Concert Hall,expense
+TXN-10893,2024-09-22,-593.37,EUR,Investment,Crypto Exchange,Savings-002,Investment - Brokerage Account,expense
+TXN-10890,2024-09-22,-100.72,EUR,Shopping,Zara,Credit-003,Shopping - Zara,expense
+TXN-10873,2024-09-23,-44.76,EUR,Transport,Uber,Credit-003,Transport - City Transit,expense
+TXN-10859,2024-09-25,-73.79,EUR,Groceries,Carrefour,Checking-001,Groceries - Whole Foods,expense
+TXN-10869,2024-09-26,-28.95,EUR,Transport,Train Co,Credit-003,Transport - Shell,expense
+TXN-10871,2024-09-27,-25.34,EUR,Transport,City Transit,Savings-002,Transport - Shell,expense
+TXN-10856,2024-09-28,-88.27,EUR,Groceries,Tesco,Savings-002,Groceries - Aldi,expense
+TXN-10863,2024-09-28,-35.95,EUR,Dining,Cafe Central,Checking-001,Dining - Sushi Bar,expense
+TXN-10919,2024-10-01,-162.74,EUR,Utilities,Gas Provider,Savings-002,Utilities - Water Utility,expense
+TXN-10920,2024-10-01,-157.23,EUR,Utilities,Gas Provider,Checking-001,Utilities - Water Utility,expense
+TXN-10925,2024-10-01,-104.03,EUR,Healthcare,Pharmacy Plus,Checking-001,Healthcare - City Clinic,expense
+TXN-10902,2024-10-01,-80.76,EUR,Groceries,Tesco,Credit-003,Groceries - Aldi,expense
+TXN-10930,2024-10-01,-104.82,EUR,Insurance,SafeLife Insurance,Savings-002,Insurance - SafeLife Insurance,expense
+TXN-10897,2024-10-01,-1400.0,EUR,Rent,City Properties Ltd,Credit-003,Rent - City Properties Ltd,expense
+TXN-10895,2024-10-01,4525.12,EUR,Salary,Acme Corp Payroll,Checking-001,Salary - TechStart GmbH,income
+TXN-10894,2024-10-01,4469.99,EUR,Salary,Acme Corp Payroll,Savings-002,Salary - Acme Corp Payroll,income
+TXN-10911,2024-10-03,-35.3,EUR,Transport,City Transit,Savings-002,Transport - Train Co,expense
+TXN-10921,2024-10-04,-23.59,EUR,Subscriptions,AWS,Credit-003,Subscriptions - Netflix,expense
+TXN-10929,2024-10-04,-214.23,EUR,Shopping,Amazon,Credit-003,Shopping - Amazon,expense
+TXN-10915,2024-10-04,-62.36,EUR,Transport,BP,Checking-001,Transport - Train Co,expense
+TXN-10907,2024-10-05,-58.66,EUR,Dining,Pizza Place,Checking-001,Dining - Pizza Place,expense
+TXN-10926,2024-10-06,-89.66,EUR,Entertainment,Streaming Extra,Checking-001,Entertainment - Streaming Extra,expense
+TXN-10931,2024-10-10,-522.46,EUR,Investment,Crypto Exchange,Credit-003,Investment - Brokerage Account,expense
+TXN-10909,2024-10-11,-22.48,EUR,Dining,Pizza Place,Savings-002,Dining - Pizza Place,expense
+TXN-10900,2024-10-13,-117.33,EUR,Groceries,Whole Foods,Credit-003,Groceries - Lidl,expense
+TXN-10901,2024-10-13,-100.02,EUR,Groceries,Whole Foods,Credit-003,Groceries - Lidl,expense
+TXN-10917,2024-10-13,-24.12,EUR,Transport,Uber,Savings-002,Transport - Shell,expense
+TXN-10906,2024-10-13,-89.98,EUR,Dining,Pizza Place,Credit-003,Dining - Pizza Place,expense
+TXN-10928,2024-10-15,-212.25,EUR,Travel,Hotel Group,Savings-002,Travel - Airbnb,expense
+TXN-10908,2024-10-15,-43.82,EUR,Dining,Cafe Central,Checking-001,Dining - Cafe Central,expense
+TXN-10898,2024-10-18,-123.82,EUR,Groceries,Aldi,Checking-001,Groceries - Carrefour,expense
+TXN-10912,2024-10-18,-52.35,EUR,Transport,Shell,Checking-001,Transport - City Transit,expense
+TXN-10918,2024-10-18,-24.8,EUR,Transport,Uber,Credit-003,Transport - Shell,expense
+TXN-10916,2024-10-20,-0.07,EUR,Transport,Uber,Credit-003,Transport - Shell,expense
+TXN-10924,2024-10-21,-28.77,EUR,Subscriptions,Netflix,Credit-003,Subscriptions - Spotify,expense
+TXN-10922,2024-10-21,-24.48,EUR,Subscriptions,Spotify,Credit-003,Subscriptions - GitHub,expense
+TXN-10913,2024-10-22,-57.99,EUR,Transport,Shell,Savings-002,Transport - City Transit,expense
+TXN-10905,2024-10-22,-14.32,EUR,Dining,Cafe Central,Credit-003,Dining - Restaurant XYZ,expense
+TXN-10910,2024-10-23,-41.81,EUR,Transport,City Transit,Checking-001,Transport - Train Co,expense
+TXN-10904,2024-10-24,-57.76,EUR,Groceries,Tesco,Savings-002,Groceries - Aldi,expense
+TXN-10914,2024-10-25,-13.32,EUR,Transport,BP,Credit-003,Transport - Uber,expense
+TXN-10896,2024-10-25,688.79,EUR,Freelance,Upwork,Credit-003,Freelance - Upwork,income
+TXN-10923,2024-10-27,-25.31,EUR,Subscriptions,AWS,Credit-003,Subscriptions - GitHub,expense
+TXN-10927,2024-10-27,-93.11,EUR,Entertainment,Concert Hall,Savings-002,Entertainment - Concert Hall,expense
+TXN-10903,2024-10-27,-102.5,EUR,Groceries,Whole Foods,Credit-003,Groceries - Carrefour,expense
+TXN-10899,2024-10-28,-92.59,EUR,Groceries,Carrefour,Checking-001,Groceries - Carrefour,expense
+TXN-10972,2024-11-01,-91.97,EUR,Insurance,SafeLife Insurance,Credit-003,Insurance - SafeLife Insurance,expense
+TXN-10932,2024-11-01,4869.33,EUR,Salary,TechStart GmbH,Savings-002,Salary - TechStart GmbH,income
+TXN-10934,2024-11-01,-1400.0,EUR,Rent,City Properties Ltd,Credit-003,Rent - City Properties Ltd,expense
+TXN-10962,2024-11-01,-143.26,EUR,Utilities,Electric Co,Checking-001,Utilities - Gas Provider,expense
+TXN-10953,2024-11-01,-16.28,EUR,Transport,Uber,Credit-003,Transport - Train Co,expense
+TXN-10964,2024-11-02,-32.68,EUR,Subscriptions,Adobe,Checking-001,Subscriptions - AWS,expense
+TXN-10970,2024-11-03,-203.54,EUR,Travel,Booking.com,Checking-001,Travel - Airline,expense
+TXN-10950,2024-11-04,-45.78,EUR,Transport,Train Co,Checking-001,Transport - Shell,expense
+TXN-10935,2024-11-05,-71.19,EUR,Groceries,Whole Foods,Checking-001,Groceries - Carrefour,expense
+TXN-10957,2024-11-05,-2.82,EUR,Transport,Train Co,Checking-001,Transport - BP,expense
+TXN-10947,2024-11-06,-29.95,EUR,Dining,Cafe Central,Credit-003,Dining - Sushi Bar,expense
+TXN-10941,2024-11-06,-71.42,EUR,Groceries,Carrefour,Checking-001,Groceries - Carrefour,expense
+TXN-10945,2024-11-07,-58.26,EUR,Dining,Sushi Bar,Savings-002,Dining - Pizza Place,expense
+TXN-10940,2024-11-08,-81.94,EUR,Groceries,Whole Foods,Checking-001,Groceries - Lidl,expense
+TXN-10943,2024-11-09,-83.99,EUR,Groceries,Carrefour,Savings-002,Groceries - Whole Foods,expense
+TXN-10948,2024-11-09,-69.88,EUR,Dining,Cafe Central,Credit-003,Dining - Pizza Place,expense
+TXN-10955,2024-11-09,-30.82,EUR,Transport,Train Co,Savings-002,Transport - City Transit,expense
+TXN-10938,2024-11-10,-81.87,EUR,Groceries,Whole Foods,Checking-001,Groceries - Aldi,expense
+TXN-10971,2024-11-12,-53.76,EUR,Shopping,Amazon,Credit-003,Shopping - Zara,expense
+TXN-10956,2024-11-12,-47.53,EUR,Transport,Train Co,Credit-003,Transport - Shell,expense
+TXN-10958,2024-11-12,-52.81,EUR,Transport,City Transit,Credit-003,Transport - City Transit,expense
+TXN-10961,2024-11-12,-28.79,EUR,Transport,BP,Checking-001,Transport - Uber,expense
+TXN-10954,2024-11-13,-45.1,EUR,Transport,City Transit,Checking-001,Transport - Train Co,expense
+TXN-10942,2024-11-15,-83.78,EUR,Groceries,Lidl,Savings-002,Groceries - Lidl,expense
+TXN-10949,2024-11-15,-45.39,EUR,Transport,Shell,Savings-002,Transport - Train Co,expense
+TXN-10973,2024-11-16,-553.41,EUR,Investment,Crypto Exchange,Checking-001,Investment - Brokerage Account,expense
+TXN-10968,2024-11-17,-84.11,EUR,Entertainment,Concert Hall,Savings-002,Entertainment - Concert Hall,expense
+TXN-10966,2024-11-19,-94.41,EUR,Healthcare,Dental Care,Savings-002,Healthcare - Pharmacy Plus,expense
+TXN-10937,2024-11-19,-50.9,EUR,Groceries,Carrefour,Credit-003,Groceries - Lidl,expense
+TXN-10960,2024-11-19,-25.49,EUR,Transport,City Transit,Credit-003,Transport - BP,expense
+TXN-10969,2024-11-20,-46.16,EUR,Entertainment,Concert Hall,Checking-001,Entertainment - Cinema,expense
+TXN-10965,2024-11-21,-23.66,EUR,Subscriptions,Adobe,Credit-003,Subscriptions - AWS,expense
+TXN-10939,2024-11-21,-95.74,EUR,Groceries,Tesco,Checking-001,Groceries - Tesco,expense
+TXN-10944,2024-11-22,-59.04,EUR,Dining,Restaurant XYZ,Savings-002,Dining - Restaurant XYZ,expense
+TXN-10946,2024-11-23,-73.05,EUR,Dining,Pizza Place,Savings-002,Dining - Sushi Bar,expense
+TXN-10952,2024-11-24,-39.42,EUR,Transport,Uber,Credit-003,Transport - Uber,expense
+TXN-10959,2024-11-25,-30.35,EUR,Transport,BP,Checking-001,Transport - City Transit,expense
+TXN-10963,2024-11-26,-16.88,EUR,Subscriptions,GitHub,Savings-002,Subscriptions - Netflix,expense
+TXN-10967,2024-11-27,-17.39,EUR,Entertainment,Concert Hall,Savings-002,Entertainment - Cinema,expense
+TXN-10933,2024-11-27,1288.91,EUR,Freelance,Toptal,Checking-001,Freelance - Client B,income
+TXN-10936,2024-11-28,-79.4,EUR,Groceries,Lidl,Checking-001,Groceries - Lidl,expense
+TXN-10951,2024-11-28,-21.58,EUR,Transport,Train Co,Checking-001,Transport - Shell,expense
+TXN-11002,2024-12-01,-143.61,EUR,Utilities,Gas Provider,Checking-001,Utilities - Electric Co,expense
+TXN-11013,2024-12-01,-97.39,EUR,Insurance,SafeLife Insurance,Credit-003,Insurance - SafeLife Insurance,expense
+TXN-11014,2024-12-01,-106.03,EUR,Insurance,SafeLife Insurance,Checking-001,Insurance - SafeLife Insurance,expense
+TXN-10992,2024-12-01,-49.86,EUR,Transport,Uber,Credit-003,Transport - Train Co,expense
+TXN-10976,2024-12-01,-1400.0,EUR,Rent,City Properties Ltd,Checking-001,Rent - City Properties Ltd,expense
+TXN-10974,2024-12-01,4279.84,EUR,Salary,TechStart GmbH,Checking-001,Salary - Acme Corp Payroll,income
+TXN-10975,2024-12-02,915.48,EUR,Freelance,Client B,Checking-001,Freelance - Client A,income
+TXN-11010,2024-12-02,-510.59,EUR,Travel,Airline,Credit-003,Travel - Airline,expense
+TXN-10986,2024-12-03,-31.1,EUR,Dining,Cafe Central,Credit-003,Dining - Restaurant XYZ,expense
+TXN-10993,2024-12-04,-25.56,EUR,Transport,BP,Credit-003,Transport - City Transit,expense
+TXN-10995,2024-12-05,-33.78,EUR,Transport,Train Co,Savings-002,Transport - Shell,expense
+TXN-10990,2024-12-05,-33.55,EUR,Transport,City Transit,Checking-001,Transport - Shell,expense
+TXN-11004,2024-12-06,-13.4,EUR,Subscriptions,Netflix,Checking-001,Subscriptions - Spotify,expense
+TXN-10985,2024-12-06,-69.67,EUR,Dining,Restaurant XYZ,Credit-003,Dining - Restaurant XYZ,expense
+TXN-10977,2024-12-06,-84.16,EUR,Groceries,Aldi,Credit-003,Groceries - Carrefour,expense
+TXN-10984,2024-12-07,-68.45,EUR,Dining,Sushi Bar,Checking-001,Dining - Restaurant XYZ,expense
+TXN-10980,2024-12-08,-59.22,EUR,Groceries,Carrefour,Checking-001,Groceries - Carrefour,expense
+TXN-11006,2024-12-09,-116.37,EUR,Healthcare,City Clinic,Credit-003,Healthcare - City Clinic,expense
+TXN-11012,2024-12-09,-162.26,EUR,Shopping,MediaMarkt,Credit-003,Shopping - IKEA,expense
+TXN-10997,2024-12-09,-39.6,EUR,Transport,BP,Checking-001,Transport - BP,expense
+TXN-10982,2024-12-09,-73.43,EUR,Groceries,Whole Foods,Savings-002,Groceries - Carrefour,expense
+TXN-11011,2024-12-12,-173.38,EUR,Shopping,Amazon,Checking-001,Shopping - Amazon,expense
+TXN-11000,2024-12-12,-43.01,EUR,Transport,BP,Credit-003,Transport - City Transit,expense
+TXN-10988,2024-12-12,-50.21,EUR,Dining,Sushi Bar,Checking-001,Dining - Sushi Bar,expense
+TXN-10989,2024-12-13,-9.1,EUR,Transport,Train Co,Checking-001,Transport - BP,expense
+TXN-11003,2024-12-13,-24.29,EUR,Subscriptions,AWS,Credit-003,Subscriptions - Netflix,expense
+TXN-11007,2024-12-13,-49.15,EUR,Entertainment,Streaming Extra,Savings-002,Entertainment - Streaming Extra,expense
+TXN-10979,2024-12-15,-67.47,EUR,Groceries,Aldi,Savings-002,Groceries - Tesco,expense
+TXN-11009,2024-12-15,-178.67,EUR,Entertainment,Streaming Extra,Savings-002,Entertainment - Cinema,expense
+TXN-11005,2024-12-16,-23.03,EUR,Subscriptions,GitHub,Checking-001,Subscriptions - Netflix,expense
+TXN-10998,2024-12-18,-15.29,EUR,Transport,BP,Checking-001,Transport - Shell,expense
+TXN-10999,2024-12-18,-53.22,EUR,Transport,Shell,Savings-002,Transport - Train Co,expense
+TXN-10983,2024-12-19,-32.05,EUR,Groceries,Aldi,Savings-002,Groceries - Tesco,expense
+TXN-10991,2024-12-20,-45.21,EUR,Transport,BP,Savings-002,Transport - City Transit,expense
+TXN-11008,2024-12-20,-44.89,EUR,Entertainment,Cinema,Credit-003,Entertainment - Concert Hall,expense
+TXN-10978,2024-12-21,-100.55,EUR,Groceries,Whole Foods,Checking-001,Groceries - Tesco,expense
+TXN-10994,2024-12-23,-48.72,EUR,Transport,BP,Savings-002,Transport - Uber,expense
+TXN-11015,2024-12-24,-715.29,EUR,Investment,Crypto Exchange,Savings-002,Investment - Crypto Exchange,expense
+TXN-10987,2024-12-25,-6.07,EUR,Dining,Sushi Bar,Credit-003,Dining - Sushi Bar,expense
+TXN-10981,2024-12-27,-82.29,EUR,Groceries,Carrefour,Credit-003,Groceries - Carrefour,expense
+TXN-11001,2024-12-28,-56.11,EUR,Transport,Uber,Credit-003,Transport - City Transit,expense
+TXN-10996,2024-12-28,-11.25,EUR,Transport,Train Co,Savings-002,Transport - Train Co,expense
+TXN-11016,2025-01-01,4516.37,EUR,Salary,Acme Corp Payroll,Savings-002,Salary - TechStart GmbH,income
+TXN-11017,2025-01-01,4480.22,EUR,Salary,TechStart GmbH,Checking-001,Salary - TechStart GmbH,income
+TXN-11060,2025-01-01,-108.67,EUR,Insurance,SafeLife Insurance,Savings-002,Insurance - SafeLife Insurance,expense
+TXN-11019,2025-01-01,-1400.0,EUR,Rent,City Properties Ltd,Credit-003,Rent - City Properties Ltd,expense
+TXN-11049,2025-01-01,-181.88,EUR,Utilities,Electric Co,Savings-002,Utilities - Electric Co,expense
+TXN-11048,2025-01-01,-200.66,EUR,Utilities,Water Utility,Savings-002,Utilities - Gas Provider,expense
+TXN-11035,2025-01-02,-39.58,EUR,Transport,BP,Savings-002,Transport - Train Co,expense
+TXN-11050,2025-01-02,-27.82,EUR,Subscriptions,Adobe,Savings-002,Subscriptions - Netflix,expense
+TXN-11036,2025-01-02,-44.14,EUR,Transport,BP,Credit-003,Transport - City Transit,expense
+TXN-11026,2025-01-03,-57.85,EUR,Groceries,Whole Foods,Checking-001,Groceries - Carrefour,expense
+TXN-11058,2025-01-03,-63.03,EUR,Shopping,MediaMarkt,Checking-001,Shopping - MediaMarkt,expense
+TXN-11023,2025-01-04,-107.46,EUR,Groceries,Aldi,Credit-003,Groceries - Tesco,expense
+TXN-11031,2025-01-04,-33.84,EUR,Dining,Sushi Bar,Credit-003,Dining - Restaurant XYZ,expense
+TXN-11047,2025-01-05,-26.0,EUR,Transport,Train Co,Credit-003,Transport - Shell,expense
+TXN-11027,2025-01-06,-73.13,EUR,Groceries,Whole Foods,Checking-001,Groceries - Carrefour,expense
+TXN-11029,2025-01-08,-28.64,EUR,Dining,Cafe Central,Checking-001,Dining - Cafe Central,expense
+TXN-11040,2025-01-09,-36.06,EUR,Transport,BP,Credit-003,Transport - Shell,expense
+TXN-11028,2025-01-09,-85.63,EUR,Groceries,Tesco,Savings-002,Groceries - Tesco,expense
+TXN-11059,2025-01-11,-209.09,EUR,Shopping,MediaMarkt,Credit-003,Shopping - IKEA,expense
+TXN-11039,2025-01-11,-27.05,EUR,Transport,Shell,Checking-001,Transport - Train Co,expense
+TXN-11041,2025-01-12,-27.7,EUR,Transport,BP,Checking-001,Transport - BP,expense
+TXN-11021,2025-01-13,-103.89,EUR,Groceries,Tesco,Savings-002,Groceries - Aldi,expense
+TXN-11056,2025-01-13,-55.18,EUR,Entertainment,Concert Hall,Credit-003,Entertainment - Cinema,expense
+TXN-11061,2025-01-14,-522.48,EUR,Investment,Brokerage Account,Checking-001,Investment - Brokerage Account,expense
+TXN-11053,2025-01-14,-28.53,EUR,Subscriptions,AWS,Checking-001,Subscriptions - AWS,expense
+TXN-11045,2025-01-14,-37.16,EUR,Transport,City Transit,Checking-001,Transport - City Transit,expense
+TXN-11037,2025-01-15,-37.8,EUR,Transport,Train Co,Savings-002,Transport - Shell,expense
+TXN-11051,2025-01-15,-27.05,EUR,Subscriptions,Adobe,Savings-002,Subscriptions - Adobe,expense
+TXN-11043,2025-01-15,-64.63,EUR,Transport,City Transit,Credit-003,Transport - City Transit,expense
+TXN-11046,2025-01-16,-53.15,EUR,Transport,City Transit,Savings-002,Transport - BP,expense
+TXN-11025,2025-01-17,-85.23,EUR,Groceries,Whole Foods,Checking-001,Groceries - Whole Foods,expense
+TXN-11034,2025-01-17,-50.98,EUR,Transport,City Transit,Credit-003,Transport - City Transit,expense
+TXN-11018,2025-01-17,1427.38,EUR,Freelance,Client A,Credit-003,Freelance - Upwork,income
+TXN-11052,2025-01-18,-26.84,EUR,Subscriptions,Adobe,Savings-002,Subscriptions - Netflix,expense
+TXN-11054,2025-01-19,-109.41,EUR,Healthcare,Dental Care,Checking-001,Healthcare - Pharmacy Plus,expense
+TXN-11033,2025-01-20,-71.24,EUR,Dining,Pizza Place,Savings-002,Dining - Cafe Central,expense
+TXN-11024,2025-01-22,-84.3,EUR,Groceries,Whole Foods,Savings-002,Groceries - Whole Foods,expense
+TXN-11022,2025-01-22,-71.59,EUR,Groceries,Carrefour,Checking-001,Groceries - Aldi,expense
+TXN-11055,2025-01-22,-54.89,EUR,Entertainment,Streaming Extra,Savings-002,Entertainment - Cinema,expense
+TXN-11038,2025-01-23,-131.42,EUR,Transport,BP,Credit-003,Transport - Uber,expense
+TXN-11042,2025-01-23,-34.03,EUR,Transport,Shell,Savings-002,Transport - Shell,expense
+TXN-11032,2025-01-25,-44.79,EUR,Dining,Restaurant XYZ,Savings-002,Dining - Pizza Place,expense
+TXN-11020,2025-01-27,-89.37,EUR,Groceries,Whole Foods,Credit-003,Groceries - Aldi,expense
+TXN-11030,2025-01-27,-17.2,EUR,Dining,Pizza Place,Checking-001,Dining - Restaurant XYZ,expense
+TXN-11044,2025-01-27,-49.09,EUR,Transport,Shell,Checking-001,Transport - Train Co,expense
+TXN-11057,2025-01-28,-349.54,EUR,Travel,Booking.com,Savings-002,Travel - Hotel Group,expense
+TXN-11084,2025-02-01,-45.04,EUR,Transport,Train Co,Checking-001,Transport - City Transit,expense
+TXN-11062,2025-02-01,4675.73,EUR,Salary,Acme Corp Payroll,Checking-001,Salary - Acme Corp Payroll,income
+TXN-11100,2025-02-01,-98.65,EUR,Insurance,SafeLife Insurance,Checking-001,Insurance - SafeLife Insurance,expense
+TXN-11064,2025-02-01,-1400.0,EUR,Rent,City Properties Ltd,Credit-003,Rent - City Properties Ltd,expense
+TXN-11076,2025-02-01,-53.87,EUR,Dining,Pizza Place,Credit-003,Dining - Cafe Central,expense
+TXN-11074,2025-02-01,-188.14,EUR,Dining,Cafe Central,Savings-002,Dining - Pizza Place,expense
+TXN-11090,2025-02-01,-182.65,EUR,Utilities,Electric Co,Savings-002,Utilities - Water Utility,expense
+TXN-11089,2025-02-02,-42.32,EUR,Transport,BP,Checking-001,Transport - Train Co,expense
+TXN-11085,2025-02-04,-19.4,EUR,Transport,City Transit,Credit-003,Transport - BP,expense
+TXN-11091,2025-02-04,-20.39,EUR,Subscriptions,Spotify,Savings-002,Subscriptions - GitHub,expense
+TXN-11067,2025-02-05,-80.42,EUR,Groceries,Tesco,Checking-001,Groceries - Lidl,expense
+TXN-11070,2025-02-05,-82.01,EUR,Groceries,Carrefour,Checking-001,Groceries - Carrefour,expense
+TXN-11082,2025-02-05,-12.93,EUR,Transport,BP,Credit-003,Transport - BP,expense
+TXN-11092,2025-02-08,-17.95,EUR,Subscriptions,Netflix,Checking-001,Subscriptions - GitHub,expense
+TXN-11066,2025-02-08,-121.97,EUR,Groceries,Aldi,Credit-003,Groceries - Tesco,expense
+TXN-11099,2025-02-08,-296.12,EUR,Shopping,IKEA,Credit-003,Shopping - Zara,expense
+TXN-11083,2025-02-09,-38.14,EUR,Transport,BP,Checking-001,Transport - Shell,expense
+TXN-11079,2025-02-09,-9.32,EUR,Transport,City Transit,Credit-003,Transport - Train Co,expense
+TXN-11073,2025-02-10,-48.17,EUR,Dining,Pizza Place,Checking-001,Dining - Pizza Place,expense
+TXN-11087,2025-02-11,-7.61,EUR,Transport,BP,Savings-002,Transport - BP,expense
+TXN-11072,2025-02-12,-21.07,EUR,Dining,Cafe Central,Checking-001,Dining - Sushi Bar,expense
+TXN-11078,2025-02-13,-37.59,EUR,Transport,BP,Savings-002,Transport - City Transit,expense
+TXN-11063,2025-02-13,1504.88,EUR,Freelance,Client A,Savings-002,Freelance - Client A,income
+TXN-11098,2025-02-14,-384.35,EUR,Travel,Airline,Savings-002,Travel - Airbnb,expense
+TXN-11101,2025-02-16,-481.53,EUR,Investment,Crypto Exchange,Credit-003,Investment - Brokerage Account,expense
+TXN-11075,2025-02-16,-63.67,EUR,Dining,Sushi Bar,Savings-002,Dining - Pizza Place,expense
+TXN-11096,2025-02-16,-95.74,EUR,Entertainment,Cinema,Savings-002,Entertainment - Cinema,expense
+TXN-11094,2025-02-16,-23.62,EUR,Subscriptions,Adobe,Savings-002,Subscriptions - Spotify,expense
+TXN-11077,2025-02-18,-48.27,EUR,Transport,BP,Credit-003,Transport - BP,expense
+TXN-11065,2025-02-20,-75.2,EUR,Groceries,Aldi,Savings-002,Groceries - Tesco,expense
+TXN-11095,2025-02-21,-50.03,EUR,Healthcare,Dental Care,Credit-003,Healthcare - Dental Care,expense
+TXN-11071,2025-02-21,-64.46,EUR,Dining,Sushi Bar,Credit-003,Dining - Pizza Place,expense
+TXN-11068,2025-02-22,-85.38,EUR,Groceries,Whole Foods,Savings-002,Groceries - Aldi,expense
+TXN-11088,2025-02-23,-24.83,EUR,Transport,Shell,Checking-001,Transport - City Transit,expense
+TXN-11093,2025-02-24,-18.93,EUR,Subscriptions,AWS,Credit-003,Subscriptions - Spotify,expense
+TXN-11086,2025-02-24,-118.16,EUR,Transport,Uber,Savings-002,Transport - City Transit,expense
+TXN-11081,2025-02-26,-59.2,EUR,Transport,City Transit,Checking-001,Transport - City Transit,expense
+TXN-11080,2025-02-26,-55.58,EUR,Transport,Shell,Savings-002,Transport - Train Co,expense
+TXN-11097,2025-02-28,-58.12,EUR,Entertainment,Cinema,Checking-001,Entertainment - Streaming Extra,expense
+TXN-11069,2025-02-28,-70.52,EUR,Groceries,Whole Foods,Credit-003,Groceries - Aldi,expense
+TXN-11102,2025-03-01,4230.57,EUR,Salary,Acme Corp Payroll,Credit-003,Salary - Acme Corp Payroll,income
+TXN-11140,2025-03-01,-91.74,EUR,Insurance,SafeLife Insurance,Checking-001,Insurance - SafeLife Insurance,expense
+TXN-11104,2025-03-01,-1400.0,EUR,Rent,City Properties Ltd,Credit-003,Rent - City Properties Ltd,expense
+TXN-11130,2025-03-01,-186.64,EUR,Utilities,Gas Provider,Savings-002,Utilities - Gas Provider,expense
+TXN-11141,2025-03-01,-94.7,EUR,Insurance,SafeLife Insurance,Checking-001,Insurance - SafeLife Insurance,expense
+TXN-11112,2025-03-01,-51.8,EUR,Groceries,Whole Foods,Credit-003,Groceries - Tesco,expense
+TXN-11106,2025-03-02,-60.1,EUR,Groceries,Aldi,Credit-003,Groceries - Whole Foods,expense
+TXN-11136,2025-03-02,-34.87,EUR,Entertainment,Streaming Extra,Checking-001,Entertainment - Streaming Extra,expense
+TXN-11116,2025-03-02,-57.87,EUR,Dining,Cafe Central,Checking-001,Dining - Restaurant XYZ,expense
+TXN-11113,2025-03-03,-33.88,EUR,Dining,Sushi Bar,Checking-001,Dining - Sushi Bar,expense
+TXN-11125,2025-03-04,-47.59,EUR,Transport,Train Co,Savings-002,Transport - City Transit,expense
+TXN-11103,2025-03-05,811.35,EUR,Freelance,Upwork,Credit-003,Freelance - Upwork,income
+TXN-11137,2025-03-05,-472.05,EUR,Travel,Booking.com,Checking-001,Travel - Booking.com,expense
+TXN-11126,2025-03-07,-50.67,EUR,Transport,City Transit,Credit-003,Transport - City Transit,expense
+TXN-11138,2025-03-07,-90.54,EUR,Shopping,Amazon,Credit-003,Shopping - MediaMarkt,expense
+TXN-11117,2025-03-07,-26.44,EUR,Dining,Cafe Central,Checking-001,Dining - Restaurant XYZ,expense
+TXN-11132,2025-03-11,-23.46,EUR,Subscriptions,GitHub,Credit-003,Subscriptions - GitHub,expense
+TXN-11111,2025-03-15,-344.64,EUR,Groceries,Aldi,Credit-003,Groceries - Tesco,expense
+TXN-11110,2025-03-15,-93.07,EUR,Groceries,Whole Foods,Credit-003,Groceries - Whole Foods,expense
+TXN-11135,2025-03-15,-52.02,EUR,Entertainment,Concert Hall,Checking-001,Entertainment - Streaming Extra,expense
+TXN-11139,2025-03-18,-75.91,EUR,Shopping,Zara,Checking-001,Shopping - Amazon,expense
+TXN-11107,2025-03-18,-103.92,EUR,Groceries,Tesco,Credit-003,Groceries - Tesco,expense
+TXN-11127,2025-03-18,-64.5,EUR,Transport,BP,Credit-003,Transport - Uber,expense
+TXN-11108,2025-03-18,-120.55,EUR,Groceries,Aldi,Savings-002,Groceries - Carrefour,expense
+TXN-11134,2025-03-18,-74.79,EUR,Healthcare,Dental Care,Credit-003,Healthcare - Pharmacy Plus,expense
+TXN-11120,2025-03-20,-12.07,EUR,Transport,Uber,Checking-001,Transport - BP,expense
+TXN-11131,2025-03-20,-26.38,EUR,Subscriptions,Adobe,Savings-002,Subscriptions - AWS,expense
+TXN-11115,2025-03-21,-1.7,EUR,Dining,Restaurant XYZ,Credit-003,Dining - Restaurant XYZ,expense
+TXN-11119,2025-03-23,-30.97,EUR,Transport,Uber,Savings-002,Transport - City Transit,expense
+TXN-11129,2025-03-23,-51.55,EUR,Transport,Uber,Checking-001,Transport - City Transit,expense
+TXN-11122,2025-03-24,-26.93,EUR,Transport,BP,Savings-002,Transport - Uber,expense
+TXN-11114,2025-03-25,-35.88,EUR,Dining,Pizza Place,Savings-002,Dining - Sushi Bar,expense
+TXN-11128,2025-03-25,-4.16,EUR,Transport,Shell,Credit-003,Transport - BP,expense
+TXN-11142,2025-03-26,-509.44,EUR,Investment,Crypto Exchange,Credit-003,Investment - Brokerage Account,expense
+TXN-11124,2025-03-27,-40.47,EUR,Transport,City Transit,Credit-003,Transport - Uber,expense
+TXN-11123,2025-03-27,-18.91,EUR,Transport,Train Co,Checking-001,Transport - Uber,expense
+TXN-11121,2025-03-27,-27.38,EUR,Transport,Uber,Savings-002,Transport - Train Co,expense
+TXN-11118,2025-03-27,-34.14,EUR,Transport,BP,Credit-003,Transport - Train Co,expense
+TXN-11133,2025-03-27,-20.92,EUR,Subscriptions,AWS,Checking-001,Subscriptions - AWS,expense
+TXN-11109,2025-03-28,-47.47,EUR,Groceries,Lidl,Credit-003,Groceries - Tesco,expense
+TXN-11148,2025-04-01,-39.72,EUR,Groceries,Aldi,Checking-001,Groceries - Whole Foods,expense
+TXN-11179,2025-04-01,-69.42,EUR,Insurance,SafeLife Insurance,Checking-001,Insurance - SafeLife Insurance,expense
+TXN-11146,2025-04-01,-1400.0,EUR,Rent,City Properties Ltd,Savings-002,Rent - City Properties Ltd,expense
+TXN-11143,2025-04-01,4482.82,EUR,Salary,TechStart GmbH,Savings-002,Salary - Acme Corp Payroll,income
+TXN-11144,2025-04-01,4747.66,EUR,Salary,Acme Corp Payroll,Credit-003,Salary - TechStart GmbH,income
+TXN-11169,2025-04-01,-213.19,EUR,Utilities,Gas Provider,Credit-003,Utilities - Electric Co,expense
+TXN-11145,2025-04-02,1208.51,EUR,Freelance,Toptal,Checking-001,Freelance - Client A,income
+TXN-11170,2025-04-02,-21.39,EUR,Subscriptions,AWS,Savings-002,Subscriptions - Netflix,expense
+TXN-11163,2025-04-05,-13.3,EUR,Transport,Uber,Checking-001,Transport - Uber,expense
+TXN-11178,2025-04-06,-153.11,EUR,Shopping,MediaMarkt,Savings-002,Shopping - MediaMarkt,expense
+TXN-11167,2025-04-07,-13.18,EUR,Transport,Train Co,Savings-002,Transport - Train Co,expense
+TXN-11164,2025-04-08,-42.72,EUR,Transport,City Transit,Savings-002,Transport - Uber,expense
+TXN-11177,2025-04-08,-435.95,EUR,Travel,Booking.com,Savings-002,Travel - Hotel Group,expense
+TXN-11158,2025-04-09,-19.24,EUR,Dining,Pizza Place,Credit-003,Dining - Restaurant XYZ,expense
+TXN-11173,2025-04-10,-109.98,EUR,Healthcare,Dental Care,Savings-002,Healthcare - City Clinic,expense
+TXN-11150,2025-04-11,-76.78,EUR,Groceries,Tesco,Checking-001,Groceries - Lidl,expense
+TXN-11165,2025-04-11,-51.65,EUR,Transport,Uber,Savings-002,Transport - BP,expense
+TXN-11160,2025-04-12,-31.09,EUR,Transport,Uber,Savings-002,Transport - City Transit,expense
+TXN-11161,2025-04-12,-56.01,EUR,Transport,BP,Credit-003,Transport - City Transit,expense
+TXN-11155,2025-04-13,-45.39,EUR,Dining,Cafe Central,Checking-001,Dining - Sushi Bar,expense
+TXN-11180,2025-04-13,-313.87,EUR,Investment,Brokerage Account,Credit-003,Investment - Crypto Exchange,expense
+TXN-11174,2025-04-13,-5.95,EUR,Healthcare,Dental Care,Checking-001,Healthcare - Pharmacy Plus,expense
+TXN-11159,2025-04-14,-41.34,EUR,Transport,Shell,Checking-001,Transport - Shell,expense
+TXN-11171,2025-04-15,-26.86,EUR,Subscriptions,Netflix,Checking-001,Subscriptions - GitHub,expense
+TXN-11176,2025-04-15,-25.0,EUR,Entertainment,Streaming Extra,Checking-001,Entertainment - Cinema,expense
+TXN-11162,2025-04-15,-24.2,EUR,Transport,City Transit,Checking-001,Transport - Shell,expense
+TXN-11166,2025-04-16,-30.83,EUR,Transport,City Transit,Credit-003,Transport - Train Co,expense
+TXN-11168,2025-04-16,-56.75,EUR,Transport,City Transit,Credit-003,Transport - Uber,expense
+TXN-11149,2025-04-17,-69.41,EUR,Groceries,Carrefour,Credit-003,Groceries - Tesco,expense
+TXN-11157,2025-04-18,-63.53,EUR,Dining,Cafe Central,Checking-001,Dining - Restaurant XYZ,expense
+TXN-11156,2025-04-18,-28.43,EUR,Dining,Sushi Bar,Credit-003,Dining - Cafe Central,expense
+TXN-11152,2025-04-19,-100.56,EUR,Groceries,Tesco,Savings-002,Groceries - Whole Foods,expense
+TXN-11175,2025-04-20,-82.53,EUR,Entertainment,Cinema,Checking-001,Entertainment - Streaming Extra,expense
+TXN-11172,2025-04-22,-16.37,EUR,Subscriptions,Adobe,Checking-001,Subscriptions - Netflix,expense
+TXN-11151,2025-04-22,-62.49,EUR,Groceries,Aldi,Savings-002,Groceries - Carrefour,expense
+TXN-11154,2025-04-24,-50.01,EUR,Dining,Sushi Bar,Savings-002,Dining - Restaurant XYZ,expense
+TXN-11153,2025-04-26,-73.05,EUR,Groceries,Tesco,Savings-002,Groceries - Lidl,expense
+TXN-11147,2025-04-28,-83.04,EUR,Groceries,Tesco,Credit-003,Groceries - Carrefour,expense
+TXN-11181,2025-05-01,4877.32,EUR,Salary,TechStart GmbH,Savings-002,Salary - Acme Corp Payroll,income
+TXN-11182,2025-05-01,4655.67,EUR,Salary,TechStart GmbH,Credit-003,Salary - Acme Corp Payroll,income
+TXN-11184,2025-05-01,-1400.0,EUR,Rent,City Properties Ltd,Savings-002,Rent - City Properties Ltd,expense
+TXN-11207,2025-05-01,-133.7,EUR,Utilities,Water Utility,Credit-003,Utilities - Electric Co,expense
+TXN-11218,2025-05-01,-95.28,EUR,Insurance,SafeLife Insurance,Savings-002,Insurance - SafeLife Insurance,expense
+TXN-11188,2025-05-03,-82.79,EUR,Groceries,Lidl,Checking-001,Groceries - Whole Foods,expense
+TXN-11209,2025-05-04,-30.87,EUR,Subscriptions,AWS,Credit-003,Subscriptions - AWS,expense
+TXN-11213,2025-05-04,-65.85,EUR,Entertainment,Streaming Extra,Savings-002,Entertainment - Streaming Extra,expense
+TXN-11191,2025-05-04,-89.84,EUR,Groceries,Lidl,Credit-003,Groceries - Carrefour,expense
+TXN-11219,2025-05-04,-322.77,EUR,Investment,Brokerage Account,Checking-001,Investment - Crypto Exchange,expense
+TXN-11217,2025-05-05,-123.1,EUR,Shopping,Amazon,Savings-002,Shopping - MediaMarkt,expense
+TXN-11185,2025-05-05,-96.33,EUR,Groceries,Tesco,Checking-001,Groceries - Whole Foods,expense
+TXN-11210,2025-05-05,-27.64,EUR,Subscriptions,Adobe,Savings-002,Subscriptions - Netflix,expense
+TXN-11208,2025-05-05,-32.05,EUR,Subscriptions,GitHub,Checking-001,Subscriptions - AWS,expense
+TXN-11211,2025-05-06,-21.14,EUR,Subscriptions,Spotify,Savings-002,Subscriptions - Netflix,expense
+TXN-11212,2025-05-09,-38.35,EUR,Healthcare,Dental Care,Credit-003,Healthcare - City Clinic,expense
+TXN-11214,2025-05-12,-71.06,EUR,Entertainment,Streaming Extra,Savings-002,Entertainment - Streaming Extra,expense
+TXN-11193,2025-05-12,-82.33,EUR,Dining,Sushi Bar,Checking-001,Dining - Sushi Bar,expense
+TXN-11201,2025-05-13,-26.27,EUR,Transport,Train Co,Credit-003,Transport - Train Co,expense
+TXN-11196,2025-05-14,-14.73,EUR,Dining,Restaurant XYZ,Savings-002,Dining - Sushi Bar,expense
+TXN-11183,2025-05-14,979.53,EUR,Freelance,Client B,Savings-002,Freelance - Upwork,income
+TXN-11190,2025-05-14,-113.54,EUR,Groceries,Whole Foods,Checking-001,Groceries - Tesco,expense
+TXN-11206,2025-05-15,-6.73,EUR,Transport,Shell,Savings-002,Transport - BP,expense
+TXN-11203,2025-05-15,-49.39,EUR,Transport,Uber,Checking-001,Transport - Train Co,expense
+TXN-11198,2025-05-15,-50.36,EUR,Transport,BP,Credit-003,Transport - Shell,expense
+TXN-11195,2025-05-16,-47.43,EUR,Dining,Cafe Central,Checking-001,Dining - Restaurant XYZ,expense
+TXN-11205,2025-05-17,-18.67,EUR,Transport,Uber,Checking-001,Transport - Shell,expense
+TXN-11202,2025-05-17,-38.4,EUR,Transport,Uber,Credit-003,Transport - Uber,expense
+TXN-11216,2025-05-18,-516.71,EUR,Travel,Airline,Savings-002,Travel - Airline,expense
+TXN-11204,2025-05-18,-40.58,EUR,Transport,Uber,Credit-003,Transport - BP,expense
+TXN-11192,2025-05-19,-59.34,EUR,Dining,Cafe Central,Checking-001,Dining - Restaurant XYZ,expense
+TXN-11197,2025-05-22,-25.54,EUR,Transport,City Transit,Checking-001,Transport - City Transit,expense
+TXN-11186,2025-05-23,-67.59,EUR,Groceries,Carrefour,Checking-001,Groceries - Aldi,expense
+TXN-11194,2025-05-23,-46.65,EUR,Dining,Cafe Central,Savings-002,Dining - Sushi Bar,expense
+TXN-11200,2025-05-25,-16.68,EUR,Transport,BP,Credit-003,Transport - Shell,expense
+TXN-11187,2025-05-25,-61.12,EUR,Groceries,Carrefour,Checking-001,Groceries - Whole Foods,expense
+TXN-11215,2025-05-26,-47.95,EUR,Entertainment,Streaming Extra,Checking-001,Entertainment - Concert Hall,expense
+TXN-11189,2025-05-27,-48.06,EUR,Groceries,Lidl,Savings-002,Groceries - Aldi,expense
+TXN-11199,2025-05-28,-7.19,EUR,Transport,City Transit,Savings-002,Transport - BP,expense
+TXN-11249,2025-06-01,-29.78,EUR,Transport,Shell,Savings-002,Transport - Uber,expense
+TXN-11250,2025-06-01,-202.04,EUR,Utilities,Water Utility,Checking-001,Utilities - Water Utility,expense
+TXN-11223,2025-06-01,-1400.0,EUR,Rent,City Properties Ltd,Checking-001,Rent - City Properties Ltd,expense
+TXN-11221,2025-06-01,4560.36,EUR,Salary,TechStart GmbH,Checking-001,Salary - Acme Corp Payroll,income
+TXN-11220,2025-06-01,15030.73,EUR,Salary,TechStart GmbH,Credit-003,Salary - Acme Corp Payroll,income
+TXN-11262,2025-06-01,-88.81,EUR,Insurance,SafeLife Insurance,Credit-003,Insurance - SafeLife Insurance,expense
+TXN-11256,2025-06-03,-71.03,EUR,Healthcare,City Clinic,Savings-002,Healthcare - Dental Care,expense
+TXN-11234,2025-06-04,-80.26,EUR,Dining,Restaurant XYZ,Savings-002,Dining - Pizza Place,expense
+TXN-11225,2025-06-05,-90.53,EUR,Groceries,Whole Foods,Checking-001,Groceries - Tesco,expense
+TXN-11259,2025-06-05,-474.35,EUR,Travel,Airbnb,Savings-002,Travel - Hotel Group,expense
+TXN-11228,2025-06-06,-92.6,EUR,Groceries,Whole Foods,Credit-003,Groceries - Carrefour,expense
+TXN-11238,2025-06-07,-62.33,EUR,Transport,Uber,Credit-003,Transport - City Transit,expense
+TXN-11254,2025-06-08,-30.08,EUR,Subscriptions,Adobe,Checking-001,Subscriptions - AWS,expense
+TXN-11255,2025-06-10,-86.92,EUR,Healthcare,Pharmacy Plus,Checking-001,Healthcare - City Clinic,expense
+TXN-11261,2025-06-11,-65.76,EUR,Shopping,Amazon,Checking-001,Shopping - MediaMarkt,expense
+TXN-11263,2025-06-11,-294.25,EUR,Investment,Crypto Exchange,Savings-002,Investment - Crypto Exchange,expense
+TXN-11240,2025-06-11,-36.64,EUR,Transport,City Transit,Checking-001,Transport - City Transit,expense
+TXN-11243,2025-06-11,-48.79,EUR,Transport,Train Co,Credit-003,Transport - Uber,expense
+TXN-11257,2025-06-11,-5.65,EUR,Entertainment,Streaming Extra,Credit-003,Entertainment - Concert Hall,expense
+TXN-11227,2025-06-11,-108.07,EUR,Groceries,Lidl,Checking-001,Groceries - Aldi,expense
+TXN-11230,2025-06-12,-98.15,EUR,Groceries,Lidl,Savings-002,Groceries - Whole Foods,expense
+TXN-11231,2025-06-12,-85.35,EUR,Groceries,Lidl,Savings-002,Groceries - Carrefour,expense
+TXN-11252,2025-06-13,-24.0,EUR,Subscriptions,Netflix,Savings-002,Subscriptions - Adobe,expense
+TXN-11235,2025-06-14,-65.53,EUR,Dining,Pizza Place,Savings-002,Dining - Pizza Place,expense
+TXN-11237,2025-06-16,-33.69,EUR,Transport,Train Co,Checking-001,Transport - Shell,expense
+TXN-11245,2025-06-16,-26.49,EUR,Transport,City Transit,Savings-002,Transport - City Transit,expense
+TXN-11232,2025-06-16,-42.97,EUR,Dining,Pizza Place,Savings-002,Dining - Sushi Bar,expense
+TXN-11260,2025-06-17,-93.81,EUR,Shopping,MediaMarkt,Checking-001,Shopping - Amazon,expense
+TXN-11233,2025-06-17,-67.62,EUR,Dining,Cafe Central,Credit-003,Dining - Restaurant XYZ,expense
+TXN-11242,2025-06-17,-21.73,EUR,Transport,Uber,Checking-001,Transport - Shell,expense
+TXN-11224,2025-06-18,-76.12,EUR,Groceries,Tesco,Checking-001,Groceries - Tesco,expense
+TXN-11222,2025-06-19,1159.94,EUR,Freelance,Toptal,Savings-002,Freelance - Toptal,income
+TXN-11229,2025-06-19,-45.8,EUR,Groceries,Tesco,Savings-002,Groceries - Carrefour,expense
+TXN-11248,2025-06-19,-33.8,EUR,Transport,Shell,Credit-003,Transport - Train Co,expense
+TXN-11236,2025-06-20,-31.29,EUR,Transport,Train Co,Credit-003,Transport - BP,expense
+TXN-11251,2025-06-21,-29.05,EUR,Subscriptions,Spotify,Credit-003,Subscriptions - AWS,expense
+TXN-11246,2025-06-21,-55.0,EUR,Transport,Train Co,Savings-002,Transport - BP,expense
+TXN-11253,2025-06-23,-19.26,EUR,Subscriptions,GitHub,Checking-001,Subscriptions - GitHub,expense
+TXN-11241,2025-06-23,-44.06,EUR,Transport,Uber,Savings-002,Transport - Shell,expense
+TXN-11258,2025-06-25,-62.48,EUR,Entertainment,Cinema,Credit-003,Entertainment - Streaming Extra,expense
+TXN-11239,2025-06-26,-33.55,EUR,Transport,BP,Savings-002,Transport - Uber,expense
+TXN-11247,2025-06-26,-1.22,EUR,Transport,Uber,Credit-003,Transport - Shell,expense
+TXN-11244,2025-06-27,-51.66,EUR,Transport,Shell,Savings-002,Transport - BP,expense
+TXN-11226,2025-06-28,-106.01,EUR,Groceries,Carrefour,Credit-003,Groceries - Whole Foods,expense
+TXN-11264,2025-07-01,4370.81,EUR,Salary,Acme Corp Payroll,Savings-002,Salary - Acme Corp Payroll,income
+TXN-11265,2025-07-01,4340.16,EUR,Salary,Acme Corp Payroll,Checking-001,Salary - Acme Corp Payroll,income
+TXN-11290,2025-07-01,-150.52,EUR,Utilities,Water Utility,Savings-002,Utilities - Water Utility,expense
+TXN-11267,2025-07-01,-1400.0,EUR,Rent,City Properties Ltd,Credit-003,Rent - City Properties Ltd,expense
+TXN-11302,2025-07-01,-93.08,EUR,Insurance,SafeLife Insurance,Checking-001,Insurance - SafeLife Insurance,expense
+TXN-11269,2025-07-02,-72.21,EUR,Groceries,Aldi,Credit-003,Groceries - Lidl,expense
+TXN-11291,2025-07-02,-21.72,EUR,Subscriptions,Spotify,Credit-003,Subscriptions - Netflix,expense
+TXN-11273,2025-07-03,-103.4,EUR,Groceries,Aldi,Credit-003,Groceries - Tesco,expense
+TXN-11270,2025-07-04,-77.06,EUR,Groceries,Lidl,Savings-002,Groceries - Aldi,expense
+TXN-11280,2025-07-05,-15.36,EUR,Transport,BP,Credit-003,Transport - Uber,expense
+TXN-11277,2025-07-06,-45.11,EUR,Dining,Pizza Place,Savings-002,Dining - Sushi Bar,expense
+TXN-11271,2025-07-06,-85.8,EUR,Groceries,Carrefour,Credit-003,Groceries - Aldi,expense
+TXN-11286,2025-07-06,-17.18,EUR,Transport,Uber,Credit-003,Transport - Train Co,expense
+TXN-11266,2025-07-07,1664.77,EUR,Freelance,Upwork,Savings-002,Freelance - Client B,income
+TXN-11294,2025-07-07,-26.33,EUR,Subscriptions,Adobe,Savings-002,Subscriptions - AWS,expense
+TXN-11276,2025-07-08,-64.47,EUR,Dining,Pizza Place,Savings-002,Dining - Sushi Bar,expense
+TXN-11300,2025-07-08,-3.75,EUR,Shopping,IKEA,Credit-003,Shopping - MediaMarkt,expense
+TXN-11283,2025-07-08,-31.99,EUR,Transport,BP,Savings-002,Transport - Uber,expense
+TXN-11293,2025-07-10,-27.14,EUR,Subscriptions,AWS,Savings-002,Subscriptions - Spotify,expense
+TXN-11268,2025-07-10,-94.01,EUR,Groceries,Whole Foods,Credit-003,Groceries - Aldi,expense
+TXN-11275,2025-07-10,-27.37,EUR,Dining,Sushi Bar,Savings-002,Dining - Cafe Central,expense
+TXN-11284,2025-07-11,-29.56,EUR,Transport,Train Co,Savings-002,Transport - BP,expense
+TXN-11281,2025-07-11,-43.52,EUR,Transport,Uber,Savings-002,Transport - Train Co,expense
+TXN-11288,2025-07-11,-23.52,EUR,Transport,BP,Checking-001,Transport - Shell,expense
+TXN-11296,2025-07-12,-76.4,EUR,Entertainment,Streaming Extra,Checking-001,Entertainment - Streaming Extra,expense
+TXN-11298,2025-07-12,-51.06,EUR,Entertainment,Cinema,Checking-001,Entertainment - Streaming Extra,expense
+TXN-11289,2025-07-13,-37.88,EUR,Transport,Uber,Credit-003,Transport - Train Co,expense
+TXN-11282,2025-07-15,-62.46,EUR,Transport,BP,Checking-001,Transport - Train Co,expense
+TXN-11278,2025-07-16,-24.23,EUR,Dining,Sushi Bar,Checking-001,Dining - Pizza Place,expense
+TXN-11297,2025-07-17,-75.47,EUR,Entertainment,Cinema,Savings-002,Entertainment - Cinema,expense
+TXN-11303,2025-07-18,-475.88,EUR,Investment,Crypto Exchange,Savings-002,Investment - Brokerage Account,expense
+TXN-11299,2025-07-18,-235.86,EUR,Travel,Booking.com,Checking-001,Travel - Booking.com,expense
+TXN-11285,2025-07-19,-14.47,EUR,Transport,Train Co,Credit-003,Transport - City Transit,expense
+TXN-11272,2025-07-20,-86.53,EUR,Groceries,Whole Foods,Checking-001,Groceries - Carrefour,expense
+TXN-11301,2025-07-23,-184.05,EUR,Shopping,IKEA,Savings-002,Shopping - Zara,expense
+TXN-11292,2025-07-25,-20.83,EUR,Subscriptions,Spotify,Savings-002,Subscriptions - AWS,expense
+TXN-11274,2025-07-26,-43.33,EUR,Dining,Sushi Bar,Checking-001,Dining - Sushi Bar,expense
+TXN-11295,2025-07-26,-65.83,EUR,Healthcare,Pharmacy Plus,Savings-002,Healthcare - Dental Care,expense
+TXN-11287,2025-07-27,-26.95,EUR,Transport,Train Co,Credit-003,Transport - BP,expense
+TXN-11279,2025-07-28,-27.42,EUR,Transport,Shell,Credit-003,Transport - Train Co,expense
+TXN-11344,2025-08-01,-99.02,EUR,Insurance,SafeLife Insurance,Checking-001,Insurance - SafeLife Insurance,expense
+TXN-11304,2025-08-01,4287.52,EUR,Salary,Acme Corp Payroll,Checking-001,Salary - Acme Corp Payroll,income
+TXN-11305,2025-08-01,4585.66,EUR,Salary,Acme Corp Payroll,Checking-001,Salary - TechStart GmbH,income
+TXN-11306,2025-08-01,4462.57,EUR,Salary,Acme Corp Payroll,Checking-001,Salary - Acme Corp Payroll,income
+TXN-11332,2025-08-01,-199.88,EUR,Utilities,Water Utility,Savings-002,Utilities - Water Utility,expense
+TXN-11308,2025-08-01,-1400.0,EUR,Rent,City Properties Ltd,Credit-003,Rent - City Properties Ltd,expense
+TXN-11331,2025-08-02,-40.5,EUR,Transport,Uber,Checking-001,Transport - City Transit,expense
+TXN-11321,2025-08-02,-47.36,EUR,Dining,Cafe Central,Credit-003,Dining - Restaurant XYZ,expense
+TXN-11320,2025-08-02,-18.66,EUR,Dining,Pizza Place,Credit-003,Dining - Pizza Place,expense
+TXN-11345,2025-08-02,-447.57,EUR,Investment,Brokerage Account,Credit-003,Investment - Brokerage Account,expense
+TXN-11312,2025-08-02,-80.14,EUR,Groceries,Carrefour,Savings-002,Groceries - Whole Foods,expense
+TXN-11315,2025-08-03,-92.39,EUR,Groceries,Carrefour,Checking-001,Groceries - Tesco,expense
+TXN-11328,2025-08-03,-22.39,EUR,Transport,Train Co,Checking-001,Transport - BP,expense
+TXN-11313,2025-08-04,-93.83,EUR,Groceries,Lidl,Checking-001,Groceries - Carrefour,expense
+TXN-11311,2025-08-09,-76.86,EUR,Groceries,Carrefour,Credit-003,Groceries - Whole Foods,expense
+TXN-11335,2025-08-10,-18.71,EUR,Subscriptions,GitHub,Savings-002,Subscriptions - Adobe,expense
+TXN-11317,2025-08-10,-18.65,EUR,Dining,Pizza Place,Credit-003,Dining - Restaurant XYZ,expense
+TXN-11338,2025-08-11,-58.86,EUR,Entertainment,Cinema,Savings-002,Entertainment - Streaming Extra,expense
+TXN-11319,2025-08-14,-22.2,EUR,Dining,Pizza Place,Savings-002,Dining - Cafe Central,expense
+TXN-11309,2025-08-15,-20.26,EUR,Groceries,Tesco,Checking-001,Groceries - Aldi,expense
+TXN-11327,2025-08-16,-42.57,EUR,Transport,Train Co,Checking-001,Transport - Shell,expense
+TXN-11318,2025-08-16,-65.13,EUR,Dining,Sushi Bar,Credit-003,Dining - Pizza Place,expense
+TXN-11316,2025-08-16,-80.79,EUR,Groceries,Lidl,Credit-003,Groceries - Carrefour,expense
+TXN-11334,2025-08-16,-21.18,EUR,Subscriptions,AWS,Savings-002,Subscriptions - Netflix,expense
+TXN-11323,2025-08-17,-44.12,EUR,Transport,Shell,Savings-002,Transport - City Transit,expense
+TXN-11336,2025-08-17,-32.59,EUR,Subscriptions,Netflix,Checking-001,Subscriptions - AWS,expense
+TXN-11339,2025-08-19,-55.93,EUR,Entertainment,Streaming Extra,Credit-003,Entertainment - Cinema,expense
+TXN-11325,2025-08-20,-35.34,EUR,Transport,Train Co,Credit-003,Transport - City Transit,expense
+TXN-11310,2025-08-20,-246.52,EUR,Groceries,Tesco,Credit-003,Groceries - Carrefour,expense
+TXN-11324,2025-08-20,-15.55,EUR,Transport,Shell,Checking-001,Transport - Uber,expense
+TXN-11337,2025-08-21,-27.81,EUR,Healthcare,Pharmacy Plus,Credit-003,Healthcare - Dental Care,expense
+TXN-11307,2025-08-21,1594.29,EUR,Freelance,Toptal,Credit-003,Freelance - Toptal,income
+TXN-11322,2025-08-22,-87.44,EUR,Dining,Restaurant XYZ,Savings-002,Dining - Sushi Bar,expense
+TXN-11326,2025-08-22,-49.99,EUR,Transport,City Transit,Savings-002,Transport - City Transit,expense
+TXN-11343,2025-08-22,-107.93,EUR,Shopping,Zara,Credit-003,Shopping - MediaMarkt,expense
+TXN-11341,2025-08-22,-468.51,EUR,Travel,Airline,Savings-002,Travel - Airbnb,expense
+TXN-11330,2025-08-24,-38.58,EUR,Transport,City Transit,Credit-003,Transport - Shell,expense
+TXN-11340,2025-08-24,-48.83,EUR,Entertainment,Cinema,Credit-003,Entertainment - Concert Hall,expense
+TXN-11329,2025-08-25,-26.8,EUR,Transport,BP,Checking-001,Transport - BP,expense
+TXN-11333,2025-08-25,-35.15,EUR,Subscriptions,Spotify,Savings-002,Subscriptions - GitHub,expense
+TXN-11342,2025-08-27,-147.88,EUR,Shopping,IKEA,Checking-001,Shopping - Amazon,expense
+TXN-11314,2025-08-28,-76.54,EUR,Groceries,Whole Foods,Savings-002,Groceries - Carrefour,expense

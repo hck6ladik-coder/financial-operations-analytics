@@ -1,0 +1,36 @@
+.PHONY: setup run test lint format typecheck dashboard clean all
+
+PYTHON ?= python
+PIP ?= $(PYTHON) -m pip
+LINT_PATHS = src/ ai/ tests/ dashboard/ scripts/ flows/
+
+setup:
+	$(PIP) install --upgrade pip
+	$(PIP) install -r requirements.txt
+	@echo "Setup complete"
+
+run:
+	$(PYTHON) -m src.pipeline
+	@echo "Pipeline finished - exports in data/exports/"
+
+test:
+	$(PYTHON) -m pytest tests/ -q
+
+lint:
+	ruff check $(LINT_PATHS)
+	ruff format --check $(LINT_PATHS)
+
+format:
+	ruff check --fix $(LINT_PATHS)
+	ruff format $(LINT_PATHS)
+
+typecheck:
+	mypy src/ ai/
+
+dashboard:
+	streamlit run dashboard/app.py --server.headless true
+
+clean:
+	$(PYTHON) scripts/clean.py
+
+all: setup run test

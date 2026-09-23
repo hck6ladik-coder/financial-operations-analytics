@@ -1,0 +1,60 @@
+# Financial Operations Analytics — Configuration
+# All paths are relative to the project root. No absolute paths.
+
+project:
+  name: financial-operations-analytics
+  version: "1.0.0"
+  description: End-to-end financial reporting simulation
+
+paths:
+  raw: data/raw
+  interim: data/interim
+  processed: data/processed
+  exports: data/exports
+  incoming: data/incoming
+  reports: reports
+  alerts: reports/alerts
+  sql: sql
+
+data:
+  raw_filename: transactions.csv
+  processed_filename: transactions.parquet
+  currency: EUR
+
+validation:
+  required_columns:
+    - transaction_id
+    - date
+    - amount
+    - currency
+    - category
+    - counterparty
+    - account
+    - description
+    - type
+  amount_min: -50000
+  amount_max: 50000
+  allowed_currencies: ["EUR"]
+  allowed_types: ["income", "expense"]
+
+kpis:
+  burn_rate_trailing_months: 3
+  start_balance: 15000.0
+
+anomaly:
+  iqr_multiplier: 1.5
+  zscore_threshold: 3.0
+  min_category_size: 5
+  alert_threshold_count: 5
+  cashflow_deviation_pct: 25.0
+
+dashboard:
+  top_n_categories: 8
+
+ai:
+  enabled: true
+  max_words: 120
+
+logging:
+  level: INFO
+  format: "%(asctime)s | %(levelname)-8s | %(name)s | %(message)s"

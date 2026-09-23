@@ -1,0 +1,45 @@
+[project]
+name = "financial-operations-analytics"
+version = "1.0.0"
+description = "End-to-end financial operations analytics simulation"
+requires-python = ">=3.10"
+# Runtime dependencies — keep in sync with the Core/Validation/Dashboard
+# sections of requirements.txt (which additionally lists dev/CI tools).
+dependencies = [
+    "pandas>=2.2.0,<3.0.0",
+    "numpy>=1.26.0",
+    "pyarrow>=14.0.0",
+    "pyyaml>=6.0",
+    "python-dateutil>=2.8.0",
+    "pandera>=0.20.0",
+    "streamlit>=1.28.0",
+    "plotly>=5.18.0",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "W", "UP", "B", "C4", "SIM"]
+ignore = ["E501"]
+[tool.ruff.lint.isort]
+known-first-party = ["src", "ai"]
+[tool.mypy]
+# Target a version whose stdlib stubs are compatible with current numpy;
+# runtime support floor remains requires-python >=3.10 (checked by CI matrix).
+python_version = "3.12"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+ignore_missing_imports = true
+packages = ["src", "ai"]
+
+[[tool.mypy.overrides]]
+module = ["numpy"]
+ignore_missing_imports = true
+follow_imports = "skip"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q --tb=short"
