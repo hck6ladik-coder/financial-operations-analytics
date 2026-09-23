@@ -126,7 +126,9 @@ financial-operations-analytics/
 │   ├── export.py
 │   ├── report.py
 │   └── pipeline.py       # Orchestrator
-├── dashboard/app.py      # Streamlit app
+├── main.py               # FastAPI entrypoint (Vercel)
+├── dashboard/app.py      # Streamlit app (local)
+├── dashboard/web.html    # Plotly dashboard (Vercel)
 ├── ai/summarize.py       # Structured → commentary
 ├── flows/                # Optional Prefect flow
 ├── reports/              # Generated MD + alerts/
@@ -149,7 +151,8 @@ make run        # python -m src.pipeline
 make test       # pytest
 make lint       # ruff
 make typecheck  # mypy
-make dashboard  # streamlit run dashboard/app.py
+make dashboard  # streamlit run dashboard/app.py (local BI dashboard)
+make web        # uvicorn main:app (FastAPI app deployed on Vercel)
 ```
 
 Daily automation simulation:
@@ -160,6 +163,14 @@ python -m src.pipeline --source data/incoming/new_transactions.csv --date 2025-0
 ```
 
 If anomaly count > threshold or MoM net deviation > 25 %, an alert JSON is written to `reports/alerts/`.
+
+### Deploy on Vercel
+
+The repo is connected to Vercel; `main.py` is the FastAPI entrypoint — `/`
+serves a Plotly dashboard and `/api/*` serves the KPI/chart JSON. The app
+computes analytics in memory from `data/raw/transactions.csv` (the Vercel
+filesystem is read-only). Locally: `make web` (uvicorn) or `make dashboard`
+(Streamlit).
 
 ---
 

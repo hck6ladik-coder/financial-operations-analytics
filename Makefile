@@ -1,8 +1,8 @@
-.PHONY: setup run test lint format typecheck dashboard clean all
+.PHONY: setup run test lint format typecheck dashboard web clean all
 
 PYTHON ?= python
 PIP ?= $(PYTHON) -m pip
-LINT_PATHS = src/ ai/ tests/ dashboard/ scripts/ flows/
+LINT_PATHS = main.py src/ ai/ tests/ dashboard/ scripts/ flows/
 
 setup:
 	$(PIP) install --upgrade pip
@@ -25,10 +25,13 @@ format:
 	ruff format $(LINT_PATHS)
 
 typecheck:
-	mypy src/ ai/
+	mypy main.py src/ ai/
 
 dashboard:
 	streamlit run dashboard/app.py --server.headless true
+
+web:
+	$(PYTHON) -m uvicorn main:app --reload
 
 clean:
 	$(PYTHON) scripts/clean.py

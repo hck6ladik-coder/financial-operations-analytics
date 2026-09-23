@@ -27,13 +27,13 @@ jobs:
           pip install -r requirements.txt
 
       - name: Ruff lint
-        run: ruff check src/ ai/ tests/ dashboard/ scripts/ flows/
+        run: ruff check main.py src/ ai/ tests/ dashboard/ scripts/ flows/
 
       - name: Ruff format check
-        run: ruff format --check src/ ai/ tests/ dashboard/ scripts/ flows/
+        run: ruff format --check main.py src/ ai/ tests/ dashboard/ scripts/ flows/
 
       - name: Mypy
-        run: mypy src/ ai/
+        run: mypy main.py src/ ai/
 
       - name: Pytest with coverage
         run: pytest tests/ -v --cov=src --cov-report=xml --cov-report=term-missing

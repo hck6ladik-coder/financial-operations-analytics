@@ -22,6 +22,7 @@ flowchart TD
     Q[scripts/generate_synthetic_data.py] --> A
     R[flows/daily_ingest.py<br/>Prefect orchestration] -.-> E
     S[Docker container] -.-> A
+    T[main.py<br/>FastAPI + Plotly on Vercel] -.-> D
 ```
 
 ## Data Flow
@@ -95,6 +96,12 @@ manually against a SQLite database loaded from `data/exports/`:
 docker build -t financial-operations-analytics .
 docker run -p 8501:8501 financial-operations-analytics
 ```
+
+## Vercel Deployment
+
+`main.py` exposes a FastAPI app (Vercel's Python entrypoint). Analytics are
+computed in memory from `data/raw/transactions.csv` because the Vercel
+filesystem is read-only; `/` serves the Plotly dashboard, `/api/*` the data.
 
 ## Orchestration
 
